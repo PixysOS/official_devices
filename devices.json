@@ -1,0 +1,66 @@
+[
+   {
+      "name":"Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00TD",
+      "maintainer_name":"Subins Mani",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+      "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 636",
+            "ram":"3/4GB LPDDR4X",
+            "display":"IPS 5.99\" 1080p",
+            "battery":5000,
+            "camera":"13Mpx 5Mpx + 5Mpx"
+         }
+      ]
+   },
+   {
+      "name":"Redmi 5",
+      "brand":"Xiaomi",
+      "codename":"rosy",
+      "maintainer_name":"Shreejoy Dash",
+      "maintainer_url":"https://github.com/shreejoy",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 450",
+            "ram":"2/3/4GB LPDDR4X",
+            "display":"IPS 5.70\" 1080p",
+            "battery":3300,
+            "camera":"12Mpx + 5Mpx"
+         }
+      ]
+   },
+   {
+      "name":"Redmi 4X",
+      "brand":"Xiaomi",
+      "codename":"Santoni",
+      "maintainer_name":"Ojas Sinha",
+      "maintainer_url":"https://telegram.me/BionicBug",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 435",
+            "ram":"2/3/4GB LPDDR4X",
+            "display":"IPS 5.0\" 720p",
+            "battery":4100,
+            "camera":"13Mpx + 5Mpx"
+         }
+      ]
+   }
+]
+ 
