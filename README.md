@@ -8,6 +8,7 @@
 ## Basic rules ##
 * You should be sound enough with git basics and its usage.
 * You must own the device or atleast have relieble testers to test each all the builds that will reach to users.
+* Device must be stable enough to be applied for official. (stability context vary to each device, You may contact the team before you apply, To know about your device specifc stability expectations.)
 * You must build PixysOS with all the newest and major changes before you apply. E.g - New security patch merges.
 * Your device related trees must be open atleast to one of our team member for general sanity checks. 
 
