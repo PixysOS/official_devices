@@ -46,7 +46,7 @@
       "brand":"Xiaomi",
       "codename":"Santoni",
       "maintainer_name":"Ojas Sinha",
-      "maintainer_url":"https://telegram.me/BionicBug",
+      "maintainer_url":"https://github.com/bionicBUG",
       "xda_thread":"",
       "supported_version":[
          "ten",
@@ -55,7 +55,7 @@
       "specs":[
          {
             "cpu":"Snapdragon 435",
-            "ram":"2/3/4GB LPDDR4X",
+            "ram":"2/3/4GB LPDDR3",
             "display":"IPS 5.0\" 720p",
             "battery":4100,
             "camera":"13Mpx + 5Mpx"
