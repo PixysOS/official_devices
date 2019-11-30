@@ -103,6 +103,27 @@
             "camera":"12Mpx + 5Mpx"
          }
       ]
+   },
+   {
+      "name":"Zuk Z2 Plus",
+      "brand":"Lenovo",
+      "codename":"z2_plus",
+      "maintainer_name":"Aswin A S & Nikhil Gohil",
+      "maintainer_url":"https://github.com/aswin7469",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 820",
+            "ram":"3/4GB",
+            "display":"IPS 5.0\" 1080p",
+            "battery":3500,
+            "camera":"13Mpx + 8Mpx"
+         }
+      ]
    }
 ]
  
