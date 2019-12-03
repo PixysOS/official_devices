@@ -124,6 +124,27 @@
             "camera":"13Mpx + 8Mpx"
          }
       ]
+   },
+   {
+      "name":"Redmi note 7 pro",
+      "brand":"Xiaomi",
+      "codename":"violet",
+      "maintainer_name":"Tesla",
+      "maintainer_url":"https://github.com/tesla59",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913/post81091971#post81091971",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 675",
+            "ram":"4/6GB LPDDR4X",
+            "display":"IPS 6.3\" 1080p",
+            "battery":4000,
+            "camera":"48Mpx 5Mpx + 13Mpx"
+         }
+      ]
    }
 ]
  
