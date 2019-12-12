@@ -145,6 +145,27 @@
             "camera":"48Mpx 5Mpx + 13Mpx"
          }
       ]
+   },
+   {
+      "name":"Mi A1",
+      "brand":"Xiaomi",
+      "codename":"tissot",
+      "maintainer_name":"Amar Bajpai",
+      "maintainer_url":"https://github.com/amarbajpai",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"4GB LPDDR4X",
+            "display":"IPS 5.50\" 1080p",
+            "battery":3080,
+            "camera":"12Mpx 12Mpx + 5Mpx"
+         }
+      ]
    }
 ]
  
