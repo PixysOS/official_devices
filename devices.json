@@ -187,6 +187,27 @@
             "camera":"13Mpx + 5Mpx"
          }
       ]
+   },
+   {
+      "name":"Redmi note 5 pro",
+      "brand":"Xiaomi",
+      "codename":"whyred",
+      "maintainer_name":"Sipun Ku Mahanta",
+      "maintainer_url":"https://github.com/Sweeto143",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 636",
+            "ram":"4/6GB",
+            "display":"IPS 5.99\" 1080p",
+            "battery":4000,
+            "camera":"12Mpx + 5Mpx + 20Mpx"
+         }
+      ]
    }
 ]
  
