@@ -208,6 +208,27 @@
             "camera":"12Mpx + 5Mpx + 20Mpx"
          }
       ]
+   },
+   {
+      "name":"Redmi 7",
+      "brand":"Xiaomi",
+      "codename":"onclite",
+      "maintainer_name":"Abhinand A k",
+      "maintainer_url":"https://github.com/AbhinandAK350",
+      "xda_thread":"https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 632",
+            "ram":"2/3GB",
+            "display":"IPS 6.26\" 720p",
+            "battery":4000,
+            "camera":"12Mpx + 2Mpx"
+         }
+      ]
    }
 ]
  
