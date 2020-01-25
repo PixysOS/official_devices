@@ -229,6 +229,27 @@
             "camera":"12Mpx + 2Mpx"
          }
       ]
+   },
+   {
+      "name":"Moto G5 (S) Plus",
+      "brand":"Motorola",
+      "codename":"sanders",
+      "maintainer_name":"Lucas Ponez",
+      "maintainer_url":"https://github.com/lucasponez",
+      "xda_thread":"Soon",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"3GB",
+            "display":"IPS 5.5\" 1080p",
+            "battery":3000,
+            "camera":"13Mpx + 8Mpx"
+         }
+      ]
    }
 ]
  
