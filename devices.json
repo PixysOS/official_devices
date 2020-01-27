@@ -165,6 +165,8 @@
             "battery":3080,
             "camera":"12Mpx 12Mpx + 5Mpx"
          }
+      ]
+   },
    {
       "name":"Mi A2",
       "brand":"Xiaomi",
@@ -292,6 +294,3 @@
       ]
    }
 ]
- 
-
- 
