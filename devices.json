@@ -189,6 +189,27 @@
       ]
    },
    {
+      "name":"Mi 6X",
+      "brand":"Xiaomi",
+      "codename":"wayne",
+      "maintainer_name":"RandomRetard4676",
+      "maintainer_url":"https://github.com/RandomRetard4676",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 660",
+            "ram":"4/6GB LPDDR4X",
+            "display":"IPS 5.99\" 1080p",
+            "battery":3010,
+            "camera":"12Mpx 20Mpx + 20Mpx"
+         }
+      ]
+   },
+   {
       "name":"Redmi note 4",
       "brand":"Xiaomi",
       "codename":"mido",
