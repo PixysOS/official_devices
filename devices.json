@@ -250,6 +250,27 @@
             "camera":"13Mpx + 8Mpx"
          }
       ]
+   },
+   {
+      "name":"Xiaomi Redmi 5A",
+      "brand":"Xiaomi",
+      "codename":"riva",
+      "maintainer_name":"Subins Mani",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 425",
+            "ram":"2GB",
+            "display":"IPS 5.0\" 720p",
+            "battery":3000,
+            "camera":"13Mpx + 5Mpx"
+         }
+      ]
    }
 ]
  
