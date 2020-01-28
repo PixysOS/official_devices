@@ -278,7 +278,7 @@
       "codename":"sanders",
       "maintainer_name":"Lucas Ponez",
       "maintainer_url":"https://github.com/lucasponez",
-      "xda_thread":"Soon",
+      "xda_thread":"",
       "supported_version":[
          "ten",
          "ten_gapps"
@@ -294,7 +294,7 @@
       ]
    },
    {
-      "name":"Xiaomi Redmi 5A",
+      "name":"Redmi 5A",
       "brand":"Xiaomi",
       "codename":"riva",
       "maintainer_name":"Subins Mani",
