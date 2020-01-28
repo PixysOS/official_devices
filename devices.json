@@ -278,7 +278,7 @@
       "codename":"sanders",
       "maintainer_name":"Lucas Ponez",
       "maintainer_url":"https://github.com/lucasponez",
-      "xda_thread":"",
+      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
       "supported_version":[
          "ten",
          "ten_gapps"
@@ -286,7 +286,7 @@
       "specs":[
          {
             "cpu":"Snapdragon 625",
-            "ram":"3GB",
+            "ram":"3/4GB",
             "display":"IPS 5.5\" 1080p",
             "battery":3000,
             "camera":"13Mpx + 8Mpx"
