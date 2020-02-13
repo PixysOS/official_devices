@@ -10,15 +10,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 636",
-            "ram":"3/4GB LPDDR4X",
-            "display":"IPS 5.99\" 1080p",
-            "battery":5000,
-            "camera":"13Mpx 5Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 636",
+         "ram":"3/4GB LPDDR4X",
+         "display":"IPS 5.99\" 1080p",
+         "battery":5000,
+         "camera":"13Mpx 5Mpx + 5Mpx"
+      }
    },
    {
       "name":"Redmi 5",
@@ -31,15 +29,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 450",
-            "ram":"2/3/4GB LPDDR4X",
-            "display":"IPS 5.70\" 1080p",
-            "battery":3300,
-            "camera":"12Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 450",
+         "ram":"2/3/4GB LPDDR4X",
+         "display":"IPS 5.70\" 1080p",
+         "battery":3300,
+         "camera":"12Mpx + 5Mpx"
+      }
    },
    {
       "name":"Redmi 4X",
@@ -52,15 +48,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 435",
-            "ram":"2/3/4GB LPDDR3",
-            "display":"IPS 5.0\" 720p",
-            "battery":4100,
-            "camera":"13Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 435",
+         "ram":"2/3/4GB LPDDR3",
+         "display":"IPS 5.0\" 720p",
+         "battery":4100,
+         "camera":"13Mpx + 5Mpx"
+      }
    },
    {
       "name":"Redmi 6 Pro",
@@ -73,15 +67,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 625",
-            "ram":"3/4GB LPDDR4X",
-            "display":"IPS 5.84\" 1080p",
-            "battery":4000,
-            "camera":"12Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 625",
+         "ram":"3/4GB LPDDR4X",
+         "display":"IPS 5.84\" 1080p",
+         "battery":4000,
+         "camera":"12Mpx + 5Mpx"
+      }
    },
    {
       "name":"Redmi Y2/S2",
@@ -94,15 +86,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 625",
-            "ram":"3/4GB LPDDR4X",
-            "display":"IPS 5.99\" 720p",
-            "battery":3080,
-            "camera":"12Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 625",
+         "ram":"3/4GB LPDDR4X",
+         "display":"IPS 5.99\" 720p",
+         "battery":3080,
+         "camera":"12Mpx + 5Mpx"
+      }
    },
    {
       "name":"Zuk Z2 Plus",
@@ -115,15 +105,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 820",
-            "ram":"3/4GB",
-            "display":"IPS 5.0\" 1080p",
-            "battery":3500,
-            "camera":"13Mpx + 8Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 820",
+         "ram":"3/4GB",
+         "display":"IPS 5.0\" 1080p",
+         "battery":3500,
+         "camera":"13Mpx + 8Mpx"
+      }
    },
    {
       "name":"Redmi note 7 pro",
@@ -136,15 +124,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 675",
-            "ram":"4/6GB LPDDR4X",
-            "display":"IPS 6.3\" 1080p",
-            "battery":4000,
-            "camera":"48Mpx 5Mpx + 13Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 675",
+         "ram":"4/6GB LPDDR4X",
+         "display":"IPS 6.3\" 1080p",
+         "battery":4000,
+         "camera":"48Mpx 5Mpx + 13Mpx"
+      }
    },
    {
       "name":"Mi A1",
@@ -157,15 +143,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 625",
-            "ram":"4GB LPDDR4X",
-            "display":"IPS 5.50\" 1080p",
-            "battery":3080,
-            "camera":"12Mpx 12Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 625",
+         "ram":"4GB LPDDR4X",
+         "display":"IPS 5.50\" 1080p",
+         "battery":3080,
+         "camera":"12Mpx 12Mpx + 5Mpx"
+      }
    },
    {
       "name":"Mi A2",
@@ -178,15 +162,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 660",
-            "ram":"4/6GB LPDDR4X",
-            "display":"IPS 5.99\" 1080p",
-            "battery":3010,
-            "camera":"12Mpx 20Mpx + 20Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 660",
+         "ram":"4/6GB LPDDR4X",
+         "display":"IPS 5.99\" 1080p",
+         "battery":3010,
+         "camera":"12Mpx 20Mpx + 20Mpx"
+      }
    },
    {
       "name":"Mi 6X",
@@ -199,15 +181,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 660",
-            "ram":"4/6GB LPDDR4X",
-            "display":"IPS 5.99\" 1080p",
-            "battery":3010,
-            "camera":"12Mpx 20Mpx + 20Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 660",
+         "ram":"4/6GB LPDDR4X",
+         "display":"IPS 5.99\" 1080p",
+         "battery":3010,
+         "camera":"12Mpx 20Mpx + 20Mpx"
+      }
    },
    {
       "name":"Redmi note 4",
@@ -220,15 +200,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 625",
-            "ram":"2/3/4GB",
-            "display":"IPS 5.5\" 1080p",
-            "battery":4100,
-            "camera":"13Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 625",
+         "ram":"2/3/4GB",
+         "display":"IPS 5.5\" 1080p",
+         "battery":4100,
+         "camera":"13Mpx + 5Mpx"
+      }
    },
    {
       "name":"Redmi note 5 pro",
@@ -241,15 +219,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 636",
-            "ram":"4/6GB",
-            "display":"IPS 5.99\" 1080p",
-            "battery":4000,
-            "camera":"12Mpx + 5Mpx + 20Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 636",
+         "ram":"4/6GB",
+         "display":"IPS 5.99\" 1080p",
+         "battery":4000,
+         "camera":"12Mpx + 5Mpx + 20Mpx"
+      }
    },
    {
       "name":"Redmi 7",
@@ -262,15 +238,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 632",
-            "ram":"2/3GB",
-            "display":"IPS 6.26\" 720p",
-            "battery":4000,
-            "camera":"12Mpx + 2Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 632",
+         "ram":"2/3GB",
+         "display":"IPS 6.26\" 720p",
+         "battery":4000,
+         "camera":"12Mpx + 2Mpx"
+      }
    },
    {
       "name":"Moto G5 (S) Plus",
@@ -283,15 +257,13 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 625",
-            "ram":"3/4GB",
-            "display":"IPS 5.5\" 1080p",
-            "battery":3000,
-            "camera":"13Mpx + 8Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 625",
+         "ram":"3/4GB",
+         "display":"IPS 5.5\" 1080p",
+         "battery":3000,
+         "camera":"13Mpx + 8Mpx"
+      }
    },
    {
       "name":"Redmi 5A",
@@ -304,14 +276,12 @@
          "ten",
          "ten_gapps"
       ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 425",
-            "ram":"2GB",
-            "display":"IPS 5.0\" 720p",
-            "battery":3000,
-            "camera":"13Mpx + 5Mpx"
-         }
-      ]
+      "specs":{
+         "cpu":"Snapdragon 425",
+         "ram":"2GB",
+         "display":"IPS 5.0\" 720p",
+         "battery":3000,
+         "camera":"13Mpx + 5Mpx"
+      }
    }
 ]
