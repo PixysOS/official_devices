@@ -283,5 +283,24 @@
          "battery":3000,
          "camera":"13Mpx + 5Mpx"
       }
+   },
+   {
+      "name":"Mi 9 SE",
+      "brand":"Xiaomi",
+      "codename":"grus",
+      "maintainer_name":"Tushar Mahajan",
+      "maintainer_url":"https://github.com/mahajant99",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"Snapdragon 712",
+         "ram":"6GB",
+         "display":"IPS 5.97\" 1080p",
+         "battery":3070,
+         "camera":"48MP + 8MP + 13MP"
+      }
    }
 ]
