@@ -305,7 +305,7 @@
    },
    {
       "name":"X",
-      "brand":"Oneplus",
+      "brand":"OnePlus",
       "codename":"onyx",
       "maintainer_name":"Nikhil Gohil",
       "maintainer_url":"https://github.com/gohilnikhil",
@@ -317,7 +317,7 @@
       "specs":{
          "cpu":"Snapdragon 801",
          "ram":"3GB",
-         "display":"Amoled 5.0\" 1080p",
+         "display":"AMOLED 5.0\" 1080p",
          "battery":2525,
          "camera":"13MP + 8MP"
       }
