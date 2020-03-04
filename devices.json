@@ -302,5 +302,24 @@
          "battery":3070,
          "camera":"48MP + 8MP + 13MP"
       }
+   },
+   {
+      "name":"X",
+      "brand":"Oneplus",
+      "codename":"onyx",
+      "maintainer_name":"Nikhil Gohil",
+      "maintainer_url":"https://github.com/gohilnikhil",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"Snapdragon 801",
+         "ram":"3GB",
+         "display":"Amoled 5.0\" 1080p",
+         "battery":2525,
+         "camera":"13MP + 8MP"
+      }
    }
 ]
