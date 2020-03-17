@@ -323,3 +323,24 @@
       }
    }
 ]
+{
+      "name":"Redmi Note 7",
+      "brand":"Xiaomi",
+      "codename":"lovepreet",
+      "maintainer_name":"Zenitsu",
+      "maintainer_url":"https://github.com/z3nitsu",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 660",
+            "ram":"3/4/6GB",
+            "display":"IPS 6.3\" 1080p",
+            "battery":3010,
+            "camera":"13 MP /48MP+5MP"
+         }
+      ]
+   },
