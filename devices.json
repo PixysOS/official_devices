@@ -189,6 +189,25 @@
          "camera":"12Mpx 20Mpx + 20Mpx"
       }
    },
+      {
+      "name":"Redmi K30/Poco X2",
+      "brand":"Xiaomi",
+      "codename":"phoenix",
+      "maintainer_name":"RandomRetard4676",
+      "maintainer_url":"https://github.com/RandomRetard4676",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"Snapdragon 730G",
+         "ram":"6/8 GB LPDDR4X",
+         "display":"IPS 6.67\" 1080p",
+         "battery":4500,
+         "camera":"64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx 2Mpx"
+      }
+   },
    {
       "name":"Redmi Note 4",
       "brand":"Xiaomi",
