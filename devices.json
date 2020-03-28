@@ -340,5 +340,24 @@
          "battery":2525,
          "camera":"13MP + 8MP"
       }
+   },
+      {
+      "name":"Poco F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "maintainer_name":"Nishant Singh",
+      "maintainer_url":"https://github.com/tesla59",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"Snapdragon 845",
+         "ram":"6/8GB LPDDR4X",
+         "display":"IPS 6.18\" 1080p",
+         "battery":4000,
+         "camera":"12Mpx 5Mpx + 20Mpx"
+      }
    }
 ]
