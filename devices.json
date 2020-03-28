@@ -189,7 +189,7 @@
          "camera":"12Mpx 20Mpx + 20Mpx"
       }
    },
-      {
+   {
       "name":"Redmi K30/Poco X2",
       "brand":"Xiaomi",
       "codename":"phoenix",
@@ -341,7 +341,7 @@
          "camera":"13MP + 8MP"
       }
    },
-      {
+   {
       "name":"Poco F1",
       "brand":"Xiaomi",
       "codename":"beryllium",
