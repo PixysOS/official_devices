@@ -12,6 +12,11 @@
             "ten_gapps",
             "ten",
             "pie"
+         ],
+         "riva":[
+            "ten_gapps",
+            "ten",
+            "pie"
          ]
       }
    },
@@ -32,7 +37,7 @@
       }
    },
    "tesla59":{
-      "name":"Nitesh Singh",
+      "name":"Nishant Singh",
       "contact":"https://telegram.me/tesla59",
       "devices":{
          "violet":[
