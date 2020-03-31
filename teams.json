@@ -1,0 +1,45 @@
+{
+   "shreejoy":{
+      "name":"Shreejoy Dash",
+      "contact":"https://telegram.me/Shreejoy_Dash",
+      "devices":{
+         "ginkgo":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ],
+         "willow":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ]
+      }
+   },
+   "subins":{
+      "name":"Subins Mani",
+      "contact":"https://telegram.me/subinsmani",
+      "devices":{
+         "riva":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ],
+         "X00TD":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ]
+      }
+   },
+   "tesla59":{
+      "name":"Nitesh Singh",
+      "contact":"https://telegram.me/tesla59",
+      "devices":{
+         "violet":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ]
+      }
+   }
+}
