@@ -144,5 +144,16 @@
              "ten"
          ]
       }
+   },
+   "mahajant99":{
+      "name":"Tushar Mahajan",
+      "contact":"https://telegram.me/mahajant99",
+      "devices":{
+         "sakura":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ]
+      }
    }
 }
