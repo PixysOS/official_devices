@@ -69,5 +69,15 @@
             "ten"
          ]
       }
+   },
+   "mscalindt":{
+      "name":"Dimitar Yurukov",
+      "contact":"https://telegram.me/mscalindt",
+      "devices":{
+         "rosy":[
+            "ten_gapps",
+            "ten"
+         ]
+      }
    }
 }
