@@ -33,11 +33,6 @@
             "ten_gapps",
             "ten",
             "pie"
-         ],
-         "violet":[
-            "ten_gapps",
-            "ten",
-            "pie"
          ]
       }
    },
@@ -73,8 +68,7 @@
       "devices":{
          "violet":[
             "ten_gapps",
-            "ten",
-            "pie"
+            "ten"
          ],
          "beryllium":[
             "ten_gapps",
