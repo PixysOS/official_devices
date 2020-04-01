@@ -209,12 +209,12 @@
       }
    },
    {
-      "name":"Redmi Note 4",
+      "name":"Redmi Note 4/4x",
       "brand":"Xiaomi",
       "codename":"mido",
       "maintainer_name":"Shashank Patil",
       "maintainer_url":"https://github.com/shashank1436",
-      "xda_thread":"",
+      "xda_thread":"https://forum.xda-developers.com/member.php?u=10342291",
       "supported_version":[
          "ten",
          "ten_gapps"
