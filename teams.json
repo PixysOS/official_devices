@@ -41,6 +41,32 @@
          ]
       }
    },
+   "nikhilgohil":{
+      "name":"Nikhil Gohil",
+      "contact":"https://telegram.me/subinsmani",
+      "devices":{
+         "z2_plus":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ],
+         "onyx":[
+            "ten_gapps",
+            "ten"
+         ]
+      }
+   },
+   "aswin_a_s":{
+      "name":"Aswin A S",
+      "contact":"https://telegram.me/aswin_a_s",
+      "devices":{
+         "z2_plus":[
+            "ten_gapps",
+            "ten",
+            "pie"
+         ]
+      }
+   },
    "tesla59":{
       "name":"Nishant Singh",
       "contact":"https://telegram.me/tesla59",
