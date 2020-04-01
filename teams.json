@@ -115,5 +115,15 @@
             "ten"
          ]
       }
+   },
+   "lponez":{
+      "name":"Lucas Ponez",
+      "contact":"https://t.me/pintos",
+      "devices":{
+         "sanders":[
+            "ten_gapps",
+            "ten"
+         ]
+      }
    }
 }
