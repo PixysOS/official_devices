@@ -32,8 +32,8 @@
       "codename":"rosy",
       "specs":{
          "cpu":"Snapdragon 450",
-         "ram":"2/3/4GB LPDDR4X",
-         "display":"IPS 5.70\" 1080p",
+         "ram":"2/3/4GB LPDDR3",
+         "display":"IPS 5.70\" 720p",
          "battery":3300,
          "camera":"12Mpx + 5Mpx"
       },
