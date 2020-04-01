@@ -66,6 +66,14 @@
       },
       "supported_versions":[
          {
+            "version_code":"ten",
+            "support":""
+         },
+         {
+            "version_code":"ten_gapps",
+            "support":""
+         },
+         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
