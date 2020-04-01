@@ -51,5 +51,23 @@
             "pie"
          ]
       }
+   },
+   "CryllicBuster273":{
+      "name":"CryllicBuster273",
+      "contact":"https://telegram.me/CryllicBuster273",
+      "devices":{
+         "jasmine_sprout":[
+            "ten_gapps",
+            "ten"
+         ],
+         "wayne":[
+            "ten_gapps",
+            "ten"
+         ],
+         "phoenix":[
+            "ten_gapps",
+            "ten"
+         ]
+      }
    }
 }
