@@ -114,6 +114,25 @@
       }
    },
    {
+      "name":"Zuk Z2 Pro",
+      "brand":"Lenovo",
+      "codename":"z2_row",
+      "maintainer_name":"Aswin A S & Nikhil Gohil",
+      "maintainer_url":"https://github.com/aswin7469",
+      "xda_thread":"",
+      "supported_version":[
+          "ten",
+          "ten_gapps"
+       ],
+      "specs":{
+         "cpu":"Snapdragon 820",
+         "ram":"6GB LPDDR4",
+         "display":"sAMOLED 5.2\" 1080p",
+         "battery":3100,
+         "camera":"13Mpx + 8Mpx"
+      }
+   },
+   {
       "name":"Redmi Note 7 Pro",
       "brand":"Xiaomi",
       "codename":"violet",
