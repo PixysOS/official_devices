@@ -66,6 +66,14 @@
       },
       "supported_versions":[
          {
+            "version_code":"ten",
+            "support":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839"
+         },
+         {
+            "version_code":"ten_gapps",
+            "support":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839"
+         },
+         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
