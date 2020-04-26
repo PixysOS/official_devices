@@ -342,6 +342,25 @@
       }
    },
    {
+      "name":"Realme XT",
+      "brand":"Realme",
+      "codename":"RMX1921",
+      "maintainer_name":"rahulhingve",
+      "maintainer_url":"https://github.com/rahulhingve",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"Snapdragon 712",
+         "ram":"4/6/8GB LPDDR4X",
+         "display":"AMOLED 6.4\" 1080p",
+         "battery":4000,
+         "camera":"12Mpx + 8Mpx + 2 Mpx + 2Mpx + 16Mpx"
+      }
+   },
+   {
       "name":"Poco F1",
       "brand":"Xiaomi",
       "codename":"beryllium",
