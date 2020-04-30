@@ -1,400 +1,399 @@
-[
-   {
-      "name":"Zenfone Max Pro M1",
-      "brand":"Asus",
-      "codename":"X00T",
-      "maintainer_name":"Shakti Ranjan Debata",
-      "maintainer_url":"https://github.com/d-shaktiranjan",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-      ],
-      "specs":{
-         "cpu":"Snapdragon 636",
-         "ram":"3/4GB LPDDR4X",
-         "display":"IPS 5.99\" 1080p",
-         "battery":5000,
-         "camera":"13Mpx 5Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Redmi 5",
-      "brand":"Xiaomi",
-      "codename":"rosy",
-      "maintainer_name":"Dimitar Yurukov",
-      "maintainer_url":"https://github.com/mscalindt",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 450",
-         "ram":"2/3/4GB LPDDR4X",
-         "display":"IPS 5.70\" 1080p",
-         "battery":3300,
-         "camera":"12Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Redmi 4X",
-      "brand":"Xiaomi",
-      "codename":"santoni",
-      "maintainer_name":"Pranaya Deomani",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8940296",
-      "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 435",
-         "ram":"2/3/4GB LPDDR3",
-         "display":"IPS 5.0\" 720p",
-         "battery":4100,
-         "camera":"13Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Redmi 6 Pro",
-      "brand":"Xiaomi",
-      "codename":"sakura",
-      "maintainer_name":"Tushar Mahajan",
-      "maintainer_url":"https://github.com/mahajant99",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 625",
-         "ram":"3/4GB LPDDR4X",
-         "display":"IPS 5.84\" 1080p",
-         "battery":4000,
-         "camera":"12Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Redmi Y2/S2",
-      "brand":"Xiaomi",
-      "codename":"ysl",
-      "maintainer_name":"Reynold",
-      "maintainer_url":"https://github.com/reynold29",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 625",
-         "ram":"3/4GB LPDDR4X",
-         "display":"IPS 5.99\" 720p",
-         "battery":3080,
-         "camera":"12Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Zuk Z2 Plus",
-      "brand":"Lenovo",
-      "codename":"z2_plus",
-      "maintainer_name":"Aswin A S & Nikhil Gohil",
-      "maintainer_url":"https://github.com/aswin7469",
-      "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 820",
-         "ram":"3/4GB",
-         "display":"IPS 5.0\" 1080p",
-         "battery":3500,
-         "camera":"13Mpx + 8Mpx"
-      }
-   },
-   {
-      "name":"Zuk Z2 Pro",
-      "brand":"Lenovo",
-      "codename":"z2_row",
-      "maintainer_name":"Aswin A S & Nikhil Gohil",
-      "maintainer_url":"https://github.com/aswin7469",
-      "xda_thread":"",
-      "supported_version":[
-          "ten",
-          "ten_gapps"
-       ],
-      "specs":{
-         "cpu":"Snapdragon 820",
-         "ram":"6GB LPDDR4",
-         "display":"sAMOLED 5.2\" 1080p",
-         "battery":3100,
-         "camera":"13Mpx + 8Mpx"
-      }
-   },
-   {
-      "name":"Redmi Note 7 Pro",
-      "brand":"Xiaomi",
-      "codename":"violet",
-      "maintainer_name":"Nishant Singh",
-      "maintainer_url":"https://github.com/tesla59",
-      "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913/post81091971#post81091971",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 675",
-         "ram":"4/6GB LPDDR4X",
-         "display":"IPS 6.3\" 1080p",
-         "battery":4000,
-         "camera":"48Mpx 5Mpx + 13Mpx"
-      }
-   },
-   {
-      "name":"Mi A1",
-      "brand":"Xiaomi",
-      "codename":"tissot",
-      "maintainer_name":"Amar Bajpai",
-      "maintainer_url":"https://github.com/amarbajpai",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 625",
-         "ram":"4GB LPDDR4X",
-         "display":"IPS 5.50\" 1080p",
-         "battery":3080,
-         "camera":"12Mpx 12Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Mi A2",
-      "brand":"Xiaomi",
-      "codename":"jasmine_sprout",
-      "maintainer_name":"CryllicBuster273",
-      "maintainer_url":"https://github.com/CryllicBuster273",
-      "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixysos-t4064139",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 660",
-         "ram":"4/6GB LPDDR4X",
-         "display":"IPS 5.99\" 1080p",
-         "battery":3010,
-         "camera":"12Mpx 20Mpx + 20Mpx"
-      }
-   },
-   {
-      "name":"Mi 6X",
-      "brand":"Xiaomi",
-      "codename":"wayne",
-      "maintainer_name":"CryllicBuster273",
-      "maintainer_url":"https://github.com/CryllicBuster273",
-      "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixysos-t4055453",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 660",
-         "ram":"4/6GB LPDDR4X",
-         "display":"IPS 5.99\" 1080p",
-         "battery":3010,
-         "camera":"12Mpx 20Mpx + 20Mpx"
-      }
-   },
-   {
-      "name":"Redmi K30/Poco X2",
-      "brand":"Xiaomi",
-      "codename":"phoenix",
-      "maintainer_name":"CryllicBuster273",
-      "maintainer_url":"https://github.com/CryllicBuster273",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 730G",
-         "ram":"6/8 GB LPDDR4X",
-         "display":"IPS 6.67\" 1080p",
-         "battery":4500,
-         "camera":"64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx 2Mpx"
-      }
-   },
-   {
-      "name":"Redmi Note 5 Pro",
-      "brand":"Xiaomi",
-      "codename":"whyred",
-      "maintainer_name":"Sipun Ku Mahanta",
-      "maintainer_url":"https://github.com/Sweeto143",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 636",
-         "ram":"4/6GB",
-         "display":"IPS 5.99\" 1080p",
-         "battery":4000,
-         "camera":"12Mpx + 5Mpx + 20Mpx"
-      }
-   },
-   {
-      "name":"Redmi 7",
-      "brand":"Xiaomi",
-      "codename":"onclite",
-      "maintainer_name":"Abhinand A k",
-      "maintainer_url":"https://github.com/AbhinandAK350",
-      "xda_thread":"https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 632",
-         "ram":"2/3GB",
-         "display":"IPS 6.26\" 720p",
-         "battery":4000,
-         "camera":"12Mpx + 2Mpx"
-      }
-   },
-   {
-      "name":"Moto G5 (S) Plus",
-      "brand":"Motorola",
-      "codename":"sanders",
-      "maintainer_name":"Lucas Ponez",
-      "maintainer_url":"https://github.com/lucasponez",
-      "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 625",
-         "ram":"3/4GB",
-         "display":"IPS 5.5\" 1080p",
-         "battery":3000,
-         "camera":"13Mpx + 8Mpx"
-      }
-   },
-   {
-      "name":"Redmi 5A",
-      "brand":"Xiaomi",
-      "codename":"riva",
-      "maintainer_name":"Subins Mani",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 425",
-         "ram":"2GB",
-         "display":"IPS 5.0\" 720p",
-         "battery":3000,
-         "camera":"13Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Mi 9 SE",
-      "brand":"Xiaomi",
-      "codename":"grus",
-      "maintainer_name":"Tushar Mahajan",
-      "maintainer_url":"https://github.com/mahajant99",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 712",
-         "ram":"6GB",
-         "display":"IPS 5.97\" 1080p",
-         "battery":3070,
-         "camera":"48MP + 8MP + 13MP"
-      }
-   },
-   {
-      "name":"X",
-      "brand":"OnePlus",
-      "codename":"onyx",
-      "maintainer_name":"Nikhil Gohil",
-      "maintainer_url":"https://github.com/gohilnikhil",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 801",
-         "ram":"3GB",
-         "display":"AMOLED 5.0\" 1080p",
-         "battery":2525,
-         "camera":"13MP + 8MP"
-      }
-   },
-   {
-      "name":"Realme XT",
-      "brand":"Realme",
-      "codename":"RMX1921",
-      "maintainer_name":"rahulhingve",
-      "maintainer_url":"https://github.com/rahulhingve",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 712",
-         "ram":"4/6/8GB LPDDR4X",
-         "display":"AMOLED 6.4\" 1080p",
-         "battery":4000,
-         "camera":"12Mpx + 8Mpx + 2 Mpx + 2Mpx + 16Mpx"
-      }
-   },
-   {
-      "name":"Poco F1",
-      "brand":"Xiaomi",
-      "codename":"beryllium",
-      "maintainer_name":"Nishant Singh",
-      "maintainer_url":"https://github.com/tesla59",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 845",
-         "ram":"6/8GB LPDDR4X",
-         "display":"IPS 6.18\" 1080p",
-         "battery":4000,
-         "camera":"12Mpx 5Mpx + 20Mpx"
-      }
-   },
-   {
-      "name":"Redmi Note 4",
-      "brand":"Xiaomi",
-      "codename":"mido",
-      "maintainer_name":"Shashank Patil",
-      "maintainer_url":"https://github.com/shashank1436",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 625",
-         "ram":"2/3/4GB",
-         "display":"IPS 5.5\" 1080p",
-         "battery":4100,
-         "camera":"13Mpx + 5Mpx"
-      }
-   }
+[{
+		"name": "Zenfone Max Pro M1",
+		"brand": "Asus",
+		"codename": "X00T",
+		"maintainer_name": "Shakti Ranjan Debata",
+		"maintainer_url": "https://github.com/d-shaktiranjan",
+		"xda_thread": "",
+		"supported_version": [
+			"ten"
+		],
+		"specs": {
+			"cpu": "Snapdragon 636",
+			"ram": "3/4GB LPDDR4X",
+			"display": "IPS 5.99\" 1080p",
+			"battery": 5000,
+			"camera": "13Mpx 5Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Redmi 5",
+		"brand": "Xiaomi",
+		"codename": "rosy",
+		"maintainer_name": "Dimitar Yurukov",
+		"maintainer_url": "https://github.com/mscalindt",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 450",
+			"ram": "2/3/4GB LPDDR4X",
+			"display": "IPS 5.70\" 1080p",
+			"battery": 3300,
+			"camera": "12Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Redmi 4X",
+		"brand": "Xiaomi",
+		"codename": "santoni",
+		"maintainer_name": "Pranaya Deomani",
+		"maintainer_url": "https://forum.xda-developers.com/member.php?u=8940296",
+		"xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 435",
+			"ram": "2/3/4GB LPDDR3",
+			"display": "IPS 5.0\" 720p",
+			"battery": 4100,
+			"camera": "13Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Redmi 6 Pro",
+		"brand": "Xiaomi",
+		"codename": "sakura",
+		"maintainer_name": "Tushar Mahajan",
+		"maintainer_url": "https://github.com/mahajant99",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 625",
+			"ram": "3/4GB LPDDR4X",
+			"display": "IPS 5.84\" 1080p",
+			"battery": 4000,
+			"camera": "12Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Redmi Y2/S2",
+		"brand": "Xiaomi",
+		"codename": "ysl",
+		"maintainer_name": "Reynold",
+		"maintainer_url": "https://github.com/reynold29",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 625",
+			"ram": "3/4GB LPDDR4X",
+			"display": "IPS 5.99\" 720p",
+			"battery": 3080,
+			"camera": "12Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Zuk Z2 Plus",
+		"brand": "Lenovo",
+		"codename": "z2_plus",
+		"maintainer_name": "Aswin A S & Nikhil Gohil",
+		"maintainer_url": "https://github.com/aswin7469",
+		"xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 820",
+			"ram": "3/4GB",
+			"display": "IPS 5.0\" 1080p",
+			"battery": 3500,
+			"camera": "13Mpx + 8Mpx"
+		}
+	},
+	{
+		"name": "Zuk Z2 Pro",
+		"brand": "Lenovo",
+		"codename": "z2_row",
+		"maintainer_name": "Aswin A S & Nikhil Gohil",
+		"maintainer_url": "https://github.com/aswin7469",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 820",
+			"ram": "6GB LPDDR4",
+			"display": "sAMOLED 5.2\" 1080p",
+			"battery": 3100,
+			"camera": "13Mpx + 8Mpx"
+		}
+	},
+	{
+		"name": "Redmi Note 7 Pro",
+		"brand": "Xiaomi",
+		"codename": "violet",
+		"maintainer_name": "Nishant Singh",
+		"maintainer_url": "https://github.com/tesla59",
+		"xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913/post81091971#post81091971",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 675",
+			"ram": "4/6GB LPDDR4X",
+			"display": "IPS 6.3\" 1080p",
+			"battery": 4000,
+			"camera": "48Mpx 5Mpx + 13Mpx"
+		}
+	},
+	{
+		"name": "Mi A1",
+		"brand": "Xiaomi",
+		"codename": "tissot",
+		"maintainer_name": "Amar Bajpai",
+		"maintainer_url": "https://github.com/amarbajpai",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 625",
+			"ram": "4GB LPDDR4X",
+			"display": "IPS 5.50\" 1080p",
+			"battery": 3080,
+			"camera": "12Mpx 12Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Mi A2",
+		"brand": "Xiaomi",
+		"codename": "jasmine_sprout",
+		"maintainer_name": "CryllicBuster273",
+		"maintainer_url": "https://github.com/CryllicBuster273",
+		"xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixysos-t4064139",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 660",
+			"ram": "4/6GB LPDDR4X",
+			"display": "IPS 5.99\" 1080p",
+			"battery": 3010,
+			"camera": "12Mpx 20Mpx + 20Mpx"
+		}
+	},
+	{
+		"name": "Mi 6X",
+		"brand": "Xiaomi",
+		"codename": "wayne",
+		"maintainer_name": "CryllicBuster273",
+		"maintainer_url": "https://github.com/CryllicBuster273",
+		"xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixysos-t4055453",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 660",
+			"ram": "4/6GB LPDDR4X",
+			"display": "IPS 5.99\" 1080p",
+			"battery": 3010,
+			"camera": "12Mpx 20Mpx + 20Mpx"
+		}
+	},
+	{
+		"name": "Redmi K30/Poco X2",
+		"brand": "Xiaomi",
+		"codename": "phoenix",
+		"maintainer_name": "CryllicBuster273",
+		"maintainer_url": "https://github.com/CryllicBuster273",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 730G",
+			"ram": "6/8 GB LPDDR4X",
+			"display": "IPS 6.67\" 1080p",
+			"battery": 4500,
+			"camera": "64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx 2Mpx"
+		}
+	},
+	{
+		"name": "Redmi Note 5 Pro",
+		"brand": "Xiaomi",
+		"codename": "whyred",
+		"maintainer_name": "Sipun Ku Mahanta",
+		"maintainer_url": "https://github.com/Sweeto143",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 636",
+			"ram": "4/6GB",
+			"display": "IPS 5.99\" 1080p",
+			"battery": 4000,
+			"camera": "12Mpx + 5Mpx + 20Mpx"
+		}
+	},
+	{
+		"name": "Redmi 7",
+		"brand": "Xiaomi",
+		"codename": "onclite",
+		"maintainer_name": "Abhinand A k",
+		"maintainer_url": "https://github.com/AbhinandAK350",
+		"xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 632",
+			"ram": "2/3GB",
+			"display": "IPS 6.26\" 720p",
+			"battery": 4000,
+			"camera": "12Mpx + 2Mpx"
+		}
+	},
+	{
+		"name": "Moto G5 (S) Plus",
+		"brand": "Motorola",
+		"codename": "sanders",
+		"maintainer_name": "Lucas Ponez",
+		"maintainer_url": "https://github.com/lucasponez",
+		"xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 625",
+			"ram": "3/4GB",
+			"display": "IPS 5.5\" 1080p",
+			"battery": 3000,
+			"camera": "13Mpx + 8Mpx"
+		}
+	},
+	{
+		"name": "Redmi 5A",
+		"brand": "Xiaomi",
+		"codename": "riva",
+		"maintainer_name": "Subins Mani",
+		"maintainer_url": "https://forum.xda-developers.com/member.php?u=7868666",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 425",
+			"ram": "2GB",
+			"display": "IPS 5.0\" 720p",
+			"battery": 3000,
+			"camera": "13Mpx + 5Mpx"
+		}
+	},
+	{
+		"name": "Mi 9 SE",
+		"brand": "Xiaomi",
+		"codename": "grus",
+		"maintainer_name": "Tushar Mahajan",
+		"maintainer_url": "https://github.com/mahajant99",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 712",
+			"ram": "6GB",
+			"display": "IPS 5.97\" 1080p",
+			"battery": 3070,
+			"camera": "48MP + 8MP + 13MP"
+		}
+	},
+	{
+		"name": "X",
+		"brand": "OnePlus",
+		"codename": "onyx",
+		"maintainer_name": "Nikhil Gohil",
+		"maintainer_url": "https://github.com/gohilnikhil",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 801",
+			"ram": "3GB",
+			"display": "AMOLED 5.0\" 1080p",
+			"battery": 2525,
+			"camera": "13MP + 8MP"
+		}
+	},
+	{
+		"name": "Realme XT",
+		"brand": "Realme",
+		"codename": "RMX1921",
+		"maintainer_name": "rahulhingve",
+		"maintainer_url": "https://github.com/rahulhingve",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 712",
+			"ram": "4/6/8GB LPDDR4X",
+			"display": "AMOLED 6.4\" 1080p",
+			"battery": 4000,
+			"camera": "12Mpx + 8Mpx + 2 Mpx + 2Mpx + 16Mpx"
+		}
+	},
+	{
+		"name": "Poco F1",
+		"brand": "Xiaomi",
+		"codename": "beryllium",
+		"maintainer_name": "Nishant Singh",
+		"maintainer_url": "https://github.com/tesla59",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 845",
+			"ram": "6/8GB LPDDR4X",
+			"display": "IPS 6.18\" 1080p",
+			"battery": 4000,
+			"camera": "12Mpx 5Mpx + 20Mpx"
+		}
+	},
+	{
+		"name": "Redmi Note 4",
+		"brand": "Xiaomi",
+		"codename": "mido",
+		"maintainer_name": "Shashank Patil",
+		"maintainer_url": "https://github.com/shashank1436",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 625",
+			"ram": "2/3/4GB",
+			"display": "IPS 5.5\" 1080p",
+			"battery": 4100,
+			"camera": "13Mpx + 5Mpx"
+		}
+	}
 ]
