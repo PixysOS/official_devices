@@ -2,13 +2,12 @@
    {
       "name":"Zenfone Max Pro M1",
       "brand":"Asus",
-      "codename":"X00TD",
-      "maintainer_name":"Subins Mani",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
-      "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672",
+      "codename":"X00T",
+      "maintainer_name":"Shakti Ranjan Debata",
+      "maintainer_url":"https://github.com/d-shaktiranjan",
+      "xda_thread":"",
       "supported_version":[
          "ten",
-         "ten_gapps"
       ],
       "specs":{
          "cpu":"Snapdragon 636",
