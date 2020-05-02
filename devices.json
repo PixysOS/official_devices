@@ -6,7 +6,8 @@
 		"maintainer_url": "https://github.com/d-shaktiranjan",
 		"xda_thread": "",
 		"supported_version": [
-			"ten"
+			"ten",
+			"ten_gapps"
 		],
 		"specs": {
 			"cpu": "Snapdragon 636",
