@@ -396,5 +396,23 @@
 			"battery": 4100,
 			"camera": "13Mpx + 5Mpx"
 		}
-	}
+	},
+        {
+                "name": "Realme X2",
+		"brand": "Realme",
+		"codename": "1991/1992/1993",
+		"maintainer_name": "Sree Ram",
+		"maintainer_url": "https://github.com/sreeramd22",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 730G",
+			"ram": "4/6/8 GB LPDDR4X",
+			"display": "AMOLED 6.4\" 1080p",
+			"battery": 4000,
+			"camera": "64Mpx 8Mpx 2Mpx 2Mpx + 32Mpx"
+		}
 ]
