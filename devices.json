@@ -397,10 +397,10 @@
 			"camera": "13Mpx + 5Mpx"
 		}
 	},
-        {
-                "name": "Realme X2",
+    {
+    "name": "Realme X2",
 		"brand": "Realme",
-		"codename": "1991/1992/1993",
+		"codename": "199X",
 		"maintainer_name": "Sree Ram",
 		"maintainer_url": "https://github.com/sreeramd22",
 		"xda_thread": "",
