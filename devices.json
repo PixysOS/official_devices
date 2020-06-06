@@ -415,5 +415,24 @@
 			"battery": 4000,
 			"camera": "64Mpx 8Mpx 2Mpx 2Mpx + 32Mpx"
 		}
+	},
+ 	{
+		"name": "Redmi Note 8",
+		"brand": "Xioami",
+		"codename": "ginkgo",
+		"maintainer_name": "STRIX247",
+		"maintainer_url": "https://github.com/STRIX247",
+		"xda_thread": "",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 665",
+			"ram": "4/6GB LPDDR4X",
+			"display": "IPS 6.3\" 1080p",
+			"battery": 4000,
+			"camera": "48Mpx 8Mpx 2Mpx 2Mpx + 13Mpx"
+		}
 	}
 ]
