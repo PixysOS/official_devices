@@ -150,6 +150,25 @@
 			"camera": "48Mpx 5Mpx + 13Mpx"
 		}
 	},
+        {
+        	"name": "Redmi Note 7",
+		"brand": "Xiaomi",
+		"codename": "lavender",
+		"maintainer_name": "AlissonGrizotti",
+		"maintainer_url": "https://github.com/AlissonGrizotti",
+		"xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949",
+		"supported_version": [
+			"ten",
+			"ten_gapps"
+		],
+		"specs": {
+			"cpu": "Snapdragon 660",
+			"ram": "4/6GB LPDDR4X",
+			"display": "IPS 6.3\" 1080p",
+			"battery": 4000,
+			"camera": "48Mpx 5Mpx + 13Mpx"
+		}
+	},
 	{
 		"name": "Mi A1",
 		"brand": "Xiaomi",
