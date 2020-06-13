@@ -1,32 +1,26 @@
 # PixysOS-build-target
 # <device> <Day ("Mo"nday, "Tu"esday, "We"dnesday, "Th"ursday, "Fr"iday, "Sa"turday, "Su"unday)> <allowed builds>
-
 # Monday
 rosy Mo 6
 lavender Mo 6
-
 # Tuesday
 sanders Tu 6
 sakura Tu 6
-
 # Wednesday
 phoenix We 6
 jasmine_sprout We 4
 wayne We 2
-
 # Thursday
 violet Th 6
 beryllium Th 6
-
 # Friday
 x2 Fr 6
 mido Fr 6
-
+begonia Fr 6
 # Saturday
 z2_plus Sa 4
 z2_row Sa 2
 ginkgo Sa 6
-
 # Sunday
 X00TD Su 6
 onclite Su 6
