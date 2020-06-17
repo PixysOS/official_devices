@@ -231,9 +231,9 @@
       "name":"Redmi K30/Poco X2",
       "brand":"Xiaomi",
       "codename":"phoenix",
-      "maintainer_name":"CryllicBuster273",
+      "maintainer_name":"CryllicBuster273 and Nishant Singh",
       "maintainer_url":"https://github.com/CryllicBuster273",
-      "xda_thread":"",
+      "xda_thread":"https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
       "supported_version":[
          "ten",
          "ten_gapps"
