@@ -375,5 +375,22 @@
             ]
          }
       ]
+   },
+   {
+      "full_name": "Lucas Ponez Da Mota",
+      "telegram_username": "Pintos",
+      "github_username": "lucasponez",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9941920",
+      "country":"BR",
+      "core_team": "false",
+      "devices": [
+         {
+            "codename": "sanders",
+            "version": [
+               "ten",
+               "ten_gapps"
+            ]
+         }
+      ]
    }
 ]
