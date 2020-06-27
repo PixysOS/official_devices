@@ -274,6 +274,23 @@
       ]
    },
    {
+      "full_name": "Shashank S Patil",
+      "telegram_username": "shashank1436",
+      "github_username": "shashank1436",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=10342291",
+      "country":"IN",
+      "core_team": "false",
+      "devices": [
+         {
+            "codename": "mido",
+            "version": [
+               "ten",
+               "ten_gapps"
+            ]
+         }
+      ]
+   }
+   {
       "full_name": "Shreejoy Dash",
       "telegram_username": "Shreejoy_Dash",
       "github_username": "shreejoy",
@@ -358,22 +375,5 @@
             ]
          }
       ]
-   },
-   {
-      "full_name": "Shashank S Patil",
-      "telegram_username": "shashank1436",
-      "github_username": "shashank1436",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=10342291",
-      "country":"IN",
-      "core_team": "false",
-      "devices": [
-         {
-            "codename": "mido",
-            "version": [
-               "ten",
-               "ten_gapps"
-            ]
-         }
-      ]
-   }
+   }, 
 ]
