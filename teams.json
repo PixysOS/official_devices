@@ -210,6 +210,22 @@
       "devices": []
    },
    {
+      "full_name": "Panchajanya Sarkar",
+      "telegram_username": "Panchajanya1999",
+      "github_username": "Panchajanya1999",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8624446",
+      "core_team": "false",
+      "devices": [
+         {
+            "codename": "violet",
+            "version": [
+               "ten",
+               "ten_gapps"
+            ]
+         }
+      ]
+   },
+   {
       "full_name": "Rahul yadav",
       "telegram_username": "rahul9999xda",
       "github_username": "rahul9999xda",
