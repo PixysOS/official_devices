@@ -70,6 +70,22 @@
       "devices": []
    },
    {
+      "full_name": "Alisson Grizotti",
+      "telegram_username": "Alissonrgi",
+      "github_username": "AlissonGrizotti",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7677621",
+      "core_team": "false",
+      "devices": [
+         {
+            "codename": "lavender",
+            "version": [
+               "ten",
+               "ten_gapps"
+            ]
+         }
+      ]
+   },
+   {
       "full_name": "Aswin A S Kurup",
       "telegram_username": "aswin_a_s",
       "github_username": "aswin7469",
@@ -107,6 +123,14 @@
             ]
          }
       ]
+   },
+   {
+      "full_name": "Karthik Reddy",
+      "telegram_username": "AxelBlaz3",
+      "github_username": "AxelBlaz3",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=5057155",
+      "core_team": "true",
+      "devices": []
    },
    {
       "full_name": "Lokesh Kasamneni",
@@ -167,6 +191,13 @@
                "ten",
                "ten_gapps"
             ]
+         },
+         {
+            "codename": "phoenix",
+            "version": [
+               "ten",
+               "ten_gapps"
+            ]
          }
       ]
    },
@@ -215,7 +246,7 @@
       "telegram_username": "Shreejoy_Dash",
       "github_username": "shreejoy",
       "xda_url": "https://forum.xda-developers.com/member.php?u=8338700",
-      "core_team": "false",
+      "core_team": "true",
       "devices": []
    },
    {
