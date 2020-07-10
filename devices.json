@@ -453,25 +453,5 @@
 			"battery": 4000,
 			"camera": "48Mpx 8Mpx 2Mpx 2Mpx + 13Mpx"
 		}
-		
-		 {
-			"name": "Redmi Note 8 Pro",
-			"brand": "Xioami",
-			"codename": "Begonia",
-			"maintainer_name": "Aashil",
-			"mainter_url": "https://github.com/aashil123"
-			"supported_version": [
-			"ten",
-			"ten_gapps"
-		],
-		"specs": {
-			"cpu": "Mediatek Helio G90T"
-			"ram":"6/8GB LPDDR4X"
-			"display": "IPS 6.55\" 1080p"
-			"battery": 4500,
-			"camera": "64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx"
-			}
-			
-			
 	}
 ]
