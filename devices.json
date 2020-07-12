@@ -454,5 +454,24 @@
          "battery":4000,
          "camera":"48Mpx 8Mpx 2Mpx 2Mpx + 13Mpx"
       }
+   },
+   {
+      "name":"Redmi Note 8 Pro",
+      "brand":"Xioami",
+      "codename":"begonia",
+      "maintainer_name":"Itachi Uchiha",
+      "maintainer_url":"https://github.com/iitachiuchiha",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"MideaTek Helio G90T",
+         "ram":"6/8GB LPDDR4X",
+         "display":"IPS 6.53\" 1080p",
+         "battery":4500,
+         "camera":"64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx"
+      }
    }
 ]
