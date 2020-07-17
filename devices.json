@@ -457,7 +457,7 @@
    },
    {
       "name":"Redmi Note 8 Pro",
-      "brand":"Xioami",
+      "brand":"Xiaomi",
       "codename":"begonia",
       "maintainer_name":"Itachi Uchiha",
       "maintainer_url":"https://github.com/iitachiuchiha",
@@ -467,7 +467,7 @@
          "ten_gapps"
       ],
       "specs":{
-         "cpu":"MideaTek Helio G90T",
+         "cpu":"MediaTek Helio G90T",
          "ram":"6/8GB LPDDR4X",
          "display":"IPS 6.53\" 1080p",
          "battery":4500,
