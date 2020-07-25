@@ -437,6 +437,25 @@
       }
    },
    {
+      "name":"Redmi Note 5/5 Plus",
+      "brand":"Xiaomi",
+      "codename":"vince",
+      "maintainer_name":"Srinand.E.K",
+      "maintainer_url":"https://github.com/gamehackerever",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+         "ten_gapps"
+      ],
+      "specs":{
+         "cpu":"Snapdragon 625",
+         "ram":"3/4GB LPDDR3",
+         "display":"LCD 5.99\" 1080p",
+         "battery":4000,
+         "camera":"12Mpx + 5Mpx"
+      }
+   },
+   {
       "name":"Redmi Note 8",
       "brand":"Xioami",
       "codename":"ginkgo",
