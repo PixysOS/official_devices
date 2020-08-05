@@ -190,48 +190,10 @@
       }
    },
    {
-      "name":"Mi A2",
-      "brand":"Xiaomi",
-      "codename":"jasmine_sprout",
-      "maintainer_name":"CryllicBuster273",
-      "maintainer_url":"https://github.com/CryllicBuster273",
-      "xda_thread":"https://forum.xda-developers.com/mi-a2/development/rom-pixysos-t4064139",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 660",
-         "ram":"4/6GB LPDDR4X",
-         "display":"IPS 5.99\" 1080p",
-         "battery":3010,
-         "camera":"12Mpx 20Mpx + 20Mpx"
-      }
-   },
-   {
-      "name":"Mi 6X",
-      "brand":"Xiaomi",
-      "codename":"wayne",
-      "maintainer_name":"CryllicBuster273",
-      "maintainer_url":"https://github.com/CryllicBuster273",
-      "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixysos-t4055453",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 660",
-         "ram":"4/6GB LPDDR4X",
-         "display":"IPS 5.99\" 1080p",
-         "battery":3010,
-         "camera":"12Mpx 20Mpx + 20Mpx"
-      }
-   },
-   {
       "name":"Redmi K30/Poco X2",
       "brand":"Xiaomi",
       "codename":"phoenix",
-      "maintainer_name":"CryllicBuster273 and Nishant Singh",
+      "maintainer_name":"CryllicBuster273",
       "maintainer_url":"https://github.com/CryllicBuster273",
       "xda_thread":"https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
       "supported_version":[
