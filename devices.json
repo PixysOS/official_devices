@@ -79,9 +79,9 @@
       "name":"Redmi Y2/S2",
       "brand":"Xiaomi",
       "codename":"ysl",
-      "maintainer_name":"Reynold",
-      "maintainer_url":"https://github.com/reynold29",
-      "xda_thread":"",
+      "maintainer_name":"Tushar Mahajan",
+      "maintainer_url":"https://github.com/mahajant99",
+      "xda_thread":"https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599",
       "supported_version":[
          "ten",
          "ten_gapps"
