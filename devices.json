@@ -383,8 +383,8 @@
       "name":"Redmi Note 8",
       "brand":"Xioami",
       "codename":"ginkgo",
-      "maintainer_name":"STRIX247",
-      "maintainer_url":"https://github.com/STRIX247",
+      "maintainer_name":"TheWeaver786",
+      "maintainer_url":"https://github.com/TheWeaver786",
       "xda_thread":"",
       "supported_version":[
          "ten",
@@ -392,7 +392,7 @@
       ],
       "specs":{
          "cpu":"Snapdragon 665",
-         "ram":"4/6GB LPDDR4X",
+         "ram":"3/4/6GB LPDDR4X",
          "display":"IPS 6.3\" 1080p",
          "battery":4000,
          "camera":"48Mpx 8Mpx 2Mpx 2Mpx + 13Mpx"
