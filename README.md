@@ -1,9 +1,9 @@
 # PixysOS
 ---
 ## How to apply? ###
-* Visit [here](https://github.com/PixysOS/official_devices/blob/ten/devices.json) and create a pull request to list the devices on our server.
-* Once the pull request is approved either of our team members should try to contact you or you can visit our telegram portal and ask about it.
-* But before proceeding to start of with making Pull request besure to go though the following terms lisited below.
+* Visit [here](https://github.com/PixysOS/official_devices/blob/ten/devices.json) and create a patch and push to our [gerrit](http://gerrit.pixysos.com/) to list the devices on our server.
+* Once the gerrit patch is approved either of our team members should try to contact you or you can visit our telegram portal and ask about it.
+* But before proceeding to start of with making gerrit patch be sure to go though the following terms lisited below.
 
 ## Basic rules ##
 * You should be sound enough with git basics and its usage.
