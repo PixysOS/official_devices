@@ -416,5 +416,23 @@
          "battery":4500,
          "camera":"64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx"
       }
+   },
+   {
+      "name":"Redmi Note 9S/Pro",
+      "brand":"Xiaomi",
+      "codename":"miatoll",
+      "maintainer_name":"Atlan Prime",
+      "maintainer_url":"https://github.com/AtlanPrime",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixysos-unofficial-t4155405",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":{
+         "cpu":"Qualcomm Snapdragon 720G",
+         "ram":"4/6/8GB LPDDR4X",
+         "display":"IPS 6.67 \" 1080p",
+         "battery":5020,
+         "camera":"48Mpx 8Mpx 5Mpx 2Mpx + 16Mpx"
+      }
    }
 ]
