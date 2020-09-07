@@ -19,44 +19,6 @@
       }
    },
    {
-      "name":"Redmi 5",
-      "brand":"Xiaomi",
-      "codename":"rosy",
-      "maintainer_name":"Dimitar Yurukov",
-      "maintainer_url":"https://github.com/mscalindt",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 450",
-         "ram":"2/3/4GB LPDDR4X",
-         "display":"IPS 5.70\" 1080p",
-         "battery":3300,
-         "camera":"12Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"Redmi 4X",
-      "brand":"Xiaomi",
-      "codename":"santoni",
-      "maintainer_name":"Pranaya Deomani",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8940296",
-      "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 435",
-         "ram":"2/3/4GB LPDDR3",
-         "display":"IPS 5.0\" 720p",
-         "battery":4100,
-         "camera":"13Mpx + 5Mpx"
-      }
-   },
-   {
       "name":"Redmi 6 Pro",
       "brand":"Xiaomi",
       "codename":"sakura",
@@ -171,25 +133,6 @@
       }
    },
    {
-      "name":"Mi A1",
-      "brand":"Xiaomi",
-      "codename":"tissot",
-      "maintainer_name":"Amar Bajpai",
-      "maintainer_url":"https://github.com/amarbajpai",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 625",
-         "ram":"4GB LPDDR4X",
-         "display":"IPS 5.50\" 1080p",
-         "battery":3080,
-         "camera":"12Mpx 12Mpx + 5Mpx"
-      }
-   },
-   {
       "name":"Redmi K30/Poco X2",
       "brand":"Xiaomi",
       "codename":"phoenix",
@@ -282,44 +225,6 @@
          "display":"IPS 5.0\" 720p",
          "battery":3000,
          "camera":"13Mpx + 5Mpx"
-      }
-   },
-   {
-      "name":"X",
-      "brand":"OnePlus",
-      "codename":"onyx",
-      "maintainer_name":"Nikhil Gohil",
-      "maintainer_url":"https://github.com/gohilnikhil",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 801",
-         "ram":"3GB",
-         "display":"AMOLED 5.0\" 1080p",
-         "battery":2525,
-         "camera":"13MP + 8MP"
-      }
-   },
-   {
-      "name":"Realme XT",
-      "brand":"Realme",
-      "codename":"RMX1921",
-      "maintainer_name":"rahulhingve",
-      "maintainer_url":"https://github.com/rahulhingve",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":{
-         "cpu":"Snapdragon 712",
-         "ram":"4/6/8GB LPDDR4X",
-         "display":"AMOLED 6.4\" 1080p",
-         "battery":4000,
-         "camera":"12Mpx + 8Mpx + 2 Mpx + 2Mpx + 16Mpx"
       }
    },
    {
