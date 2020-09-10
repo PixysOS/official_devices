@@ -197,8 +197,7 @@
       "maintainer_url":"https://github.com/lucasponez",
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
       "supported_version":[
-         "ten",
-         "ten_gapps"
+         "ten"
       ],
       "specs":{
          "cpu":"Snapdragon 625",
