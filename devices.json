@@ -121,8 +121,7 @@
       "maintainer_url":"https://github.com/AlissonGrizotti",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949",
       "supported_version":[
-         "ten",
-         "ten_gapps"
+         "ten"
       ],
       "specs":{
          "cpu":"Snapdragon 660",
