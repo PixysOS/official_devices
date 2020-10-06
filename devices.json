@@ -14,6 +14,9 @@
          {
             "name":"ten",
             "xda_thread":"https://forum.xda-developers.com/showthread.php?t=4109811"
+         },
+         {
+            "name":"eleven"
          }
       ]
    },
@@ -86,6 +89,10 @@
          {
             "name":"ten",
             "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
+         },
+         {
+            "name":"eleven",
+            "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
          }
       ]
    },
@@ -122,6 +129,9 @@
          {
             "name":"ten",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913"
+         },
+         {
+            "name":"eleven"
          }
       ]
    },
@@ -158,6 +168,32 @@
          {
             "name":"ten",
             "xda_thread":"https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
+         },
+         {
+            "name":"eleven",
+            "xda_thread":"https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
+         }
+      ]
+   },
+   {
+      "name":"OnePlus Nord",
+      "brand":"OnePlus",
+      "codename":"avicii",
+      "specs":{
+         "cpu":"Snapdragon 765G",
+         "ram":"6/8/12GB LPDDR4X",
+         "display":"IPS 6.44\" 1080p",
+         "battery":4115,
+         "camera":"48Mpx 8Mpx 5Mpx 2Mpx + 32Mpx 8Mpx"
+      },
+      "supported_bases":[
+         {
+            "name":"ten",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
+         },
+         {
+            "name":"eleven",
+            "xda_thread":"https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
          }
       ]
    },
