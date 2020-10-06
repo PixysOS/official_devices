@@ -58,6 +58,22 @@
     ]
   },
   {
+    "full_name": "Astile Kuriakose",
+    "telegram_username": "atlanprime",
+    "github_username": "atlanprime",
+    "xda_url": "https://forum.xda-developers.com/member.php?u=10496699",
+    "country": "IN",
+    "core_team": "false",
+    "devices": [
+      {
+        "codename": "miatoll",
+        "version": [
+          "ten"
+        ]
+      }
+    ]
+  },  
+  {
     "full_name": "Aswin A S Kurup",
     "telegram_username": "aswin_a_s",
     "github_username": "aswin7469",
