@@ -1,345 +1,345 @@
 [
-   {
-       "brand": "Asus",
-       "codename": "X00TD",
-       "name": "Zenfone Max Pro M1",
-       "specs": {
-           "battery": 5000,
-           "camera": "13Mpx 5Mpx + 5Mpx",
-           "cpu": "Snapdragon 636",
-           "display": "IPS 5.99\" 1080p",
-           "ram": "3/4GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4109811"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "rosy",
-       "name": "Redmi 5",
-       "specs": {
-           "battery": 3300,
-           "camera": "12Mpx + 5Mpx",
-           "cpu": "Snapdragon 450",
-           "display": "IPS 5.70\" 1080p",
-           "ram": "2/3/4GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "sakura",
-       "name": "Redmi 6 Pro",
-       "specs": {
-           "battery": 4000,
-           "camera": "12Mpx + 5Mpx",
-           "cpu": "Snapdragon 625",
-           "display": "IPS 5.84\" 1080p",
-           "ram": "3/4GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "ysl",
-       "name": "Redmi Y2/S2",
-       "specs": {
-           "battery": 3080,
-           "camera": "12Mpx + 5Mpx",
-           "cpu": "Snapdragon 625",
-           "display": "IPS 5.99\" 720p",
-           "ram": "3/4GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599"
-           }
-       ]
-   },
-   {
-       "brand": "Lenovo",
-       "codename": "z2_plus",
-       "name": "Zuk Z2 Plus",
-       "specs": {
-           "battery": 3500,
-           "camera": "13Mpx + 8Mpx",
-           "cpu": "Snapdragon 820",
-           "display": "IPS 5.0\" 1080p",
-           "ram": "3/4GB"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
-           }
-       ]
-   },
-   {
-       "brand": "Lenovo",
-       "codename": "z2_row",
-       "name": "Zuk Z2 Pro",
-       "specs": {
-           "battery": 3100,
-           "camera": "13Mpx + 8Mpx",
-           "cpu": "Snapdragon 820",
-           "display": "sAMOLED 5.2\" 1080p",
-           "ram": "6GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "violet",
-       "name": "Redmi Note 7 Pro",
-       "specs": {
-           "battery": 4000,
-           "camera": "48Mpx 5Mpx + 13Mpx",
-           "cpu": "Snapdragon 675",
-           "display": "IPS 6.3\" 1080p",
-           "ram": "4/6GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "lavender",
-       "name": "Redmi Note 7",
-       "specs": {
-           "battery": 4000,
-           "camera": "48Mpx 5Mpx + 13Mpx",
-           "cpu": "Snapdragon 660",
-           "display": "IPS 6.3\" 1080p",
-           "ram": "4/6GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "phoenix",
-       "name": "Redmi K30/Poco X2",
-       "specs": {
-           "battery": 4500,
-           "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx 2Mpx",
-           "cpu": "Snapdragon 730G",
-           "display": "IPS 6.67\" 1080p",
-           "ram": "6/8GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "whyred",
-       "name": "Redmi Note 5 Pro",
-       "specs": {
-           "battery": 4000,
-           "camera": "12Mpx + 5Mpx + 20Mpx",
-           "cpu": "Snapdragon 636",
-           "display": "IPS 5.99\" 1080p",
-           "ram": "4/6GB"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "onclite",
-       "name": "Redmi 7",
-       "specs": {
-           "battery": 4000,
-           "camera": "12Mpx + 2Mpx",
-           "cpu": "Snapdragon 632",
-           "display": "IPS 6.26\" 720p",
-           "ram": "2/3GB"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099"
-           }
-       ]
-   },
-   {
-       "brand": "Motorola",
-       "codename": "sanders",
-       "name": "Moto G5 (S) Plus",
-       "specs": {
-           "battery": 3000,
-           "camera": "13Mpx + 8Mpx",
-           "cpu": "Snapdragon 625",
-           "display": "IPS 5.5\" 1080p",
-           "ram": "3/4GB"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "riva",
-       "name": "Redmi 5A",
-       "specs": {
-           "battery": 3000,
-           "camera": "13Mpx + 5Mpx",
-           "cpu": "Snapdragon 425",
-           "display": "IPS 5.0\" 720p",
-           "ram": "2GB"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "status": "active",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "beryllium",
-       "name": "Poco F1",
-       "specs": {
-           "battery": 4000,
-           "camera": "12Mpx 5Mpx + 20Mpx",
-           "cpu": "Snapdragon 845",
-           "display": "IPS 6.18\" 1080p",
-           "ram": "6/8GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "mido",
-       "name": "Redmi Note 4",
-       "specs": {
-           "battery": 4100,
-           "camera": "13Mpx + 5Mpx",
-           "cpu": "Snapdragon 625",
-           "display": "IPS 5.5\" 1080p",
-           "ram": "2/3/4GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Realme",
-       "codename": "x2",
-       "name": "X2",
-       "specs": {
-           "battery": 4000,
-           "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 32Mpx",
-           "cpu": "Snapdragon 730G",
-           "display": "AMOLED 6.4\" 1080p",
-           "ram": "4/6/8GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "ginkgo",
-       "name": "Redmi Note 8",
-       "specs": {
-           "battery": 4000,
-           "camera": "48Mpx 8Mpx 2Mpx 2Mpx + 13Mpx",
-           "cpu": "Snapdragon 665",
-           "display": "IPS 6.3\" 1080p",
-           "ram": "4/6GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": ""
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "begonia",
-       "name": "Redmi Note 8 Pro",
-       "specs": {
-           "battery": 4500,
-           "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx",
-           "cpu": "Mediatek Helio G90T",
-           "display": "IPS 6.53\" 1080p",
-           "ram": "6/8GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539"
-           }
-       ]
-   },
-   {
-       "brand": "Xiaomi",
-       "codename": "miatoll",
-       "name": "Redmi Note 9S/Pro",
-       "specs": {
-           "battery": 5020,
-           "camera": "48Mpx 8Mpx 5Mpx 2Mpx + 16Mpx",
-           "cpu": "Qualcomm Snapdragon 720G",
-           "display": "IPS 6.67 \" 1080p",
-           "ram": "4/6/8GB LPDDR4X"
-       },
-       "supported_bases": [
-           {
-               "name": "ten",
-               "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixysos-unofficial-t4155405"
-           }
-       ]
-   }
+    {
+        "brand": "Asus",
+        "codename": "X00TD",
+        "name": "Zenfone Max Pro M1",
+        "specs": {
+            "battery": 5000,
+            "camera": "13Mpx 5Mpx + 5Mpx",
+            "cpu": "Snapdragon 636",
+            "display": "IPS 5.99\" 1080p",
+            "ram": "3/4GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4109811"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "rosy",
+        "name": "Redmi 5",
+        "specs": {
+            "battery": 3300,
+            "camera": "12Mpx + 5Mpx",
+            "cpu": "Snapdragon 450",
+            "display": "IPS 5.70\" 1080p",
+            "ram": "2/3/4GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "sakura",
+        "name": "Redmi 6 Pro",
+        "specs": {
+            "battery": 4000,
+            "camera": "12Mpx + 5Mpx",
+            "cpu": "Snapdragon 625",
+            "display": "IPS 5.84\" 1080p",
+            "ram": "3/4GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "ysl",
+        "name": "Redmi Y2/S2",
+        "specs": {
+            "battery": 3080,
+            "camera": "12Mpx + 5Mpx",
+            "cpu": "Snapdragon 625",
+            "display": "IPS 5.99\" 720p",
+            "ram": "3/4GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599"
+            }
+        ]
+    },
+    {
+        "brand": "Lenovo",
+        "codename": "z2_plus",
+        "name": "Zuk Z2 Plus",
+        "specs": {
+            "battery": 3500,
+            "camera": "13Mpx + 8Mpx",
+            "cpu": "Snapdragon 820",
+            "display": "IPS 5.0\" 1080p",
+            "ram": "3/4GB"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
+            }
+        ]
+    },
+    {
+        "brand": "Lenovo",
+        "codename": "z2_row",
+        "name": "Zuk Z2 Pro",
+        "specs": {
+            "battery": 3100,
+            "camera": "13Mpx + 8Mpx",
+            "cpu": "Snapdragon 820",
+            "display": "sAMOLED 5.2\" 1080p",
+            "ram": "6GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "violet",
+        "name": "Redmi Note 7 Pro",
+        "specs": {
+            "battery": 4000,
+            "camera": "48Mpx 5Mpx + 13Mpx",
+            "cpu": "Snapdragon 675",
+            "display": "IPS 6.3\" 1080p",
+            "ram": "4/6GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "lavender",
+        "name": "Redmi Note 7",
+        "specs": {
+            "battery": 4000,
+            "camera": "48Mpx 5Mpx + 13Mpx",
+            "cpu": "Snapdragon 660",
+            "display": "IPS 6.3\" 1080p",
+            "ram": "4/6GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "phoenix",
+        "name": "Redmi K30/Poco X2",
+        "specs": {
+            "battery": 4500,
+            "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx 2Mpx",
+            "cpu": "Snapdragon 730G",
+            "display": "IPS 6.67\" 1080p",
+            "ram": "6/8GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "whyred",
+        "name": "Redmi Note 5 Pro",
+        "specs": {
+            "battery": 4000,
+            "camera": "12Mpx + 5Mpx + 20Mpx",
+            "cpu": "Snapdragon 636",
+            "display": "IPS 5.99\" 1080p",
+            "ram": "4/6GB"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "onclite",
+        "name": "Redmi 7",
+        "specs": {
+            "battery": 4000,
+            "camera": "12Mpx + 2Mpx",
+            "cpu": "Snapdragon 632",
+            "display": "IPS 6.26\" 720p",
+            "ram": "2/3GB"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099"
+            }
+        ]
+    },
+    {
+        "brand": "Motorola",
+        "codename": "sanders",
+        "name": "Moto G5 (S) Plus",
+        "specs": {
+            "battery": 3000,
+            "camera": "13Mpx + 8Mpx",
+            "cpu": "Snapdragon 625",
+            "display": "IPS 5.5\" 1080p",
+            "ram": "3/4GB"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "riva",
+        "name": "Redmi 5A",
+        "specs": {
+            "battery": 3000,
+            "camera": "13Mpx + 5Mpx",
+            "cpu": "Snapdragon 425",
+            "display": "IPS 5.0\" 720p",
+            "ram": "2GB"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "status": "active",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "beryllium",
+        "name": "Poco F1",
+        "specs": {
+            "battery": 4000,
+            "camera": "12Mpx 5Mpx + 20Mpx",
+            "cpu": "Snapdragon 845",
+            "display": "IPS 6.18\" 1080p",
+            "ram": "6/8GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "mido",
+        "name": "Redmi Note 4",
+        "specs": {
+            "battery": 4100,
+            "camera": "13Mpx + 5Mpx",
+            "cpu": "Snapdragon 625",
+            "display": "IPS 5.5\" 1080p",
+            "ram": "2/3/4GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Realme",
+        "codename": "x2",
+        "name": "X2",
+        "specs": {
+            "battery": 4000,
+            "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 32Mpx",
+            "cpu": "Snapdragon 730G",
+            "display": "AMOLED 6.4\" 1080p",
+            "ram": "4/6/8GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "ginkgo",
+        "name": "Redmi Note 8",
+        "specs": {
+            "battery": 4000,
+            "camera": "48Mpx 8Mpx 2Mpx 2Mpx + 13Mpx",
+            "cpu": "Snapdragon 665",
+            "display": "IPS 6.3\" 1080p",
+            "ram": "4/6GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": ""
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "begonia",
+        "name": "Redmi Note 8 Pro",
+        "specs": {
+            "battery": 4500,
+            "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 20Mpx",
+            "cpu": "Mediatek Helio G90T",
+            "display": "IPS 6.53\" 1080p",
+            "ram": "6/8GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539"
+            }
+        ]
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "miatoll",
+        "name": "Redmi Note 9S/Pro",
+        "specs": {
+            "battery": 5020,
+            "camera": "48Mpx 8Mpx 5Mpx 2Mpx + 16Mpx",
+            "cpu": "Qualcomm Snapdragon 720G",
+            "display": "IPS 6.67 \" 1080p",
+            "ram": "4/6/8GB LPDDR4X"
+        },
+        "supported_bases": [
+            {
+                "name": "ten",
+                "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixysos-unofficial-t4155405"
+            }
+        ]
+    }
 ]
