@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "brand": "Asus",
+        "codename": "X00TD",
+        "maintainer_github": "subinsmani",
+        "maintainer_name": "Subins Mani",
+        "name": "Zenfone Max Pro M1",
+        "xda_thread": ""
+    },
+    {
+        "brand": "Lenovo",
+        "codename": "z2_plus",
+        "maintainer_github": "aswin7469",
+        "maintainer_name": "Aswin A S Kurup",
+        "name": "Zuk Z2 Plus",
+        "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "violet",
+        "maintainer_github": "tesla59, Panchajanya1999",
+        "maintainer_name": "Nishant Singh, Panchajanya Sarkar",
+        "name": "Redmi Note 7 Pro",
+        "xda_thread": ""
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "phoenix",
+        "maintainer_github": "CryllicBuster273",
+        "maintainer_name": "Akshay Kakatkar",
+        "name": "Redmi K30/Poco X2",
+        "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
+    },
+    {
+        "brand": "OnePlus",
+        "codename": "avicii",
+        "maintainer_github": "CryllicBuster273, subinsmani",
+        "maintainer_name": "Akshay Kakatkar, Subins Mani",
+        "name": "OnePlus Nord",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
+    },
+    {
+        "brand": "Xiaomi",
+        "codename": "ginkgo",
+        "maintainer_github": "shreejoy",
+        "maintainer_name": "Shreejoy Dash",
+        "name": "Redmi Note 8",
+        "xda_thread": ""
+    }
+]
