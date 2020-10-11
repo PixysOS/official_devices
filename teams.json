@@ -24,10 +24,6 @@
                   "ten"
               ],
               "codename": "phoenix"
-          },
-          {
-              "bases": [],
-              "codename": "avicii"
           }
       ],
       "donate_url": "https://paypal.me/KakatkarAkshay",
@@ -311,12 +307,6 @@
                   "ten"
               ],
               "codename": "riva"
-          },
-          {
-              "bases": [
-                  "ten"
-              ],
-              "codename": "avicii"
           },
           {
               "bases": [],
