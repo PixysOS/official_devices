@@ -1,430 +1,416 @@
 [
     {
-       "full_name":"Abhinand A K",
-       "telegram_username":"skybird350",
-       "github_username":"AbhinandAK350",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=10234877",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"onclite",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "onclite"
+            }
+        ],
+        "full_name": "Abhinand A K",
+        "github_username": "AbhinandAK350",
+        "telegram_username": "skybird350",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=10234877"
     },
     {
-       "full_name":"Akshay Kakatkar",
-       "telegram_username":"CryllicBuster273",
-       "github_username":"CryllicBuster273",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=10543397",
-       "country":"IN",
-       "core_team":false,
-       "donate_url":"https://paypal.me/KakatkarAkshay",
-       "devices":[
-          {
-             "codename":"phoenix",
-             "bases":[
-                "ten",
-                "eleven"
-             ]
-          },
-          {
-             "codename":"avicii",
-             "bases":[
-                "eleven"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten",
+                    "eleven"
+                ],
+                "codename": "phoenix"
+            },
+            {
+                "bases": [
+                    "eleven"
+                ],
+                "codename": "avicii"
+            }
+        ],
+        "donate_url": "https://paypal.me/KakatkarAkshay",
+        "full_name": "Akshay Kakatkar",
+        "github_username": "CryllicBuster273",
+        "telegram_username": "CryllicBuster273",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=10543397"
     },
     {
-       "full_name":"Akshay Kumar",
-       "telegram_username":"Akianonymus",
-       "github_username":"Akianonymus",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=7598239",
-       "country":"IN",
-       "core_team":true,
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "full_name": "Akshay Kumar",
+        "github_username": "Akianonymus",
+        "telegram_username": "Akianonymus",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=7598239"
     },
     {
-       "full_name":"Alisson Grizotti",
-       "telegram_username":"Alissonrgi",
-       "github_username":"AlissonGrizotti",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=7677621",
-       "country":"BR",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"lavender",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "BR",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "lavender"
+            }
+        ],
+        "full_name": "Alisson Grizotti",
+        "github_username": "AlissonGrizotti",
+        "telegram_username": "Alissonrgi",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=7677621"
     },
     {
-       "full_name":"Astile Kuriakose",
-       "telegram_username":"atlanprime",
-       "github_username":"atlanprime",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=10496699",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"miatoll",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "miatoll"
+            }
+        ],
+        "full_name": "Astile Kuriakose",
+        "github_username": "atlanprime",
+        "telegram_username": "atlanprime",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=10496699"
     },
     {
-       "full_name":"Aswin A S Kurup",
-       "telegram_username":"aswin_a_s",
-       "github_username":"aswin7469",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=8499818",
-       "country":"IN",
-       "core_team":true,
-       "donate_url":"http://paypal.me/aswinaskurup",
-       "devices":[
-          {
-             "codename":"z2_plus",
-             "bases":[
-                "ten",
-                "eleven"
-             ]
-          },
-          {
-             "codename":"z2_row",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten",
+                    "eleven"
+                ],
+                "codename": "z2_plus"
+            },
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "z2_row"
+            }
+        ],
+        "donate_url": "http://paypal.me/aswinaskurup",
+        "full_name": "Aswin A S Kurup",
+        "github_username": "aswin7469",
+        "telegram_username": "aswin_a_s",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=8499818"
     },
     {
-       "full_name":"Dimitar Yurukov",
-       "telegram_username":"mscalindt",
-       "github_username":"mscalindt",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=7946403",
-       "country":"BG",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"rosy",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "BG",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "rosy"
+            }
+        ],
+        "full_name": "Dimitar Yurukov",
+        "github_username": "mscalindt",
+        "telegram_username": "mscalindt",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=7946403"
     },
     {
-       "full_name":"Karthik Reddy",
-       "telegram_username":"AxelBlaz3",
-       "github_username":"AxelBlaz3",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=5057155",
-       "country":"IN",
-       "core_team":true,
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "full_name": "Karthik Reddy",
+        "github_username": "AxelBlaz3",
+        "telegram_username": "AxelBlaz3",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=5057155"
     },
     {
-       "full_name":"Lokesh Kasamneni",
-       "telegram_username":"l_o_k_e",
-       "github_username":"Lokesh773",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9362438",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"X00TD",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "X00TD"
+            }
+        ],
+        "full_name": "Lokesh Kasamneni",
+        "github_username": "Lokesh773",
+        "telegram_username": "l_o_k_e",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9362438"
     },
     {
-       "full_name":"Lucas Ponez Da Mota",
-       "telegram_username":"Pintos",
-       "github_username":"lucasponez",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9941920",
-       "country":"BR",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"sanders",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "BR",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "sanders"
+            }
+        ],
+        "full_name": "Lucas Ponez Da Mota",
+        "github_username": "lucasponez",
+        "telegram_username": "Pintos",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9941920"
     },
     {
-       "full_name":"Nishant Singh",
-       "telegram_username":"tesla59",
-       "github_username":"tesla59",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9042762",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"beryllium",
-             "bases":[
-                "ten"
-             ]
-          },
-          {
-             "codename":"violet",
-             "bases":[
-                "ten",
-                "eleven"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "beryllium"
+            },
+            {
+                "bases": [
+                    "ten",
+                    "eleven"
+                ],
+                "codename": "violet"
+            }
+        ],
+        "full_name": "Nishant Singh",
+        "github_username": "tesla59",
+        "telegram_username": "tesla59",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9042762"
     },
     {
-       "full_name":"Nishant Singh",
-       "telegram_username":"psycho_mods",
-       "github_username":"psycho-source",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=6237352",
-       "country":"IN",
-       "core_team":true,
-       "donate_url":"http://paypal.me/psychomod",
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "donate_url": "http://paypal.me/psychomod",
+        "full_name": "Nishant Singh",
+        "github_username": "psycho-source",
+        "telegram_username": "psycho_mods",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=6237352"
     },
     {
-       "full_name":"Panchajanya Sarkar",
-       "telegram_username":"Panchajanya1999",
-       "github_username":"Panchajanya1999",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=8624446",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"violet",
-             "bases":[
-                "ten",
-                "eleven"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten",
+                    "eleven"
+                ],
+                "codename": "violet"
+            }
+        ],
+        "full_name": "Panchajanya Sarkar",
+        "github_username": "Panchajanya1999",
+        "telegram_username": "Panchajanya1999",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=8624446"
     },
     {
-       "full_name":"Rahul yadav",
-       "telegram_username":"rahul9999xda",
-       "github_username":"rahul9999xda",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=4912374",
-       "country":"IN",
-       "core_team":true,
-       "donate_url":"https://www.paypal.me/rahul9999xda",
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "donate_url": "https://www.paypal.me/rahul9999xda",
+        "full_name": "Rahul yadav",
+        "github_username": "rahul9999xda",
+        "telegram_username": "rahul9999xda",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=4912374"
     },
     {
-       "full_name":"Rohan Hasabe",
-       "telegram_username":"Hasaber8",
-       "github_username":"Hasaber8",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9506906",
-       "country":"IN",
-       "core_team":true,
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "full_name": "Rohan Hasabe",
+        "github_username": "Hasaber8",
+        "telegram_username": "Hasaber8",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9506906"
     },
     {
-       "full_name":"Rohan Salkar",
-       "telegram_username":"alex_mercer09",
-       "github_username":"alexmercer09",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9362438",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"X00TD",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "X00TD"
+            }
+        ],
+        "full_name": "Rohan Salkar",
+        "github_username": "alexmercer09",
+        "telegram_username": "alex_mercer09",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9362438"
     },
     {
-       "full_name":"Sipun Kumar Mahanta",
-       "telegram_username":"Darkstar085",
-       "github_username":"Sweeto143",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=6698785",
-       "country":"IN",
-       "core_team":true,
-       "devices":[
-          {
-             "codename":"whyred",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "whyred"
+            }
+        ],
+        "full_name": "Sipun Kumar Mahanta",
+        "github_username": "Sweeto143",
+        "telegram_username": "Darkstar085",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=6698785"
     },
     {
-       "full_name":"Shashank S Patil",
-       "telegram_username":"shashank1436",
-       "github_username":"shashank1436",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=10342291",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"mido",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "mido"
+            }
+        ],
+        "full_name": "Shashank S Patil",
+        "github_username": "shashank1436",
+        "telegram_username": "shashank1436",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=10342291"
     },
     {
-       "full_name":"Shreejoy Dash",
-       "telegram_username":"Shreejoy_Dash",
-       "github_username":"shreejoy",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=8338700",
-       "country":"IN",
-       "core_team":true,
-       "devices":[
-          {
-             "codename":"ginkgo",
-             "bases":[
-                "eleven"
-             ]
-          }
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "eleven"
+                ],
+                "codename": "ginkgo"
+            }
+        ],
+        "full_name": "Shreejoy Dash",
+        "github_username": "shreejoy",
+        "telegram_username": "Shreejoy_Dash",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=8338700"
     },
     {
-       "full_name":"Sree Ram",
-       "telegram_username":"SreeRamD",
-       "github_username":"sreeramd22",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9048228",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"x2",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "x2"
+            }
+        ],
+        "full_name": "Sree Ram",
+        "github_username": "sreeramd22",
+        "telegram_username": "SreeRamD",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9048228"
     },
     {
-       "full_name":"Subins Mani",
-       "telegram_username":"subinsmani",
-       "github_username":"subinsmani",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=7868666",
-       "country":"IN",
-       "core_team":true,
-       "donate_url":"http://paypal.me/subinsmani",
-       "devices":[
-          {
-             "codename":"riva",
-             "bases":[
-                "ten"
-             ]
-          },
-          {
-             "codename":"avicii",
-             "bases":[
-                "ten",
-                "eleven"
-             ]
-          },
-          {
-             "codename":"X00TD",
-             "bases":[
-                "eleven"
-             ]
-          }
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "riva"
+            },
+            {
+                "bases": [
+                    "ten",
+                    "eleven"
+                ],
+                "codename": "avicii"
+            },
+            {
+                "bases": [
+                    "eleven"
+                ],
+                "codename": "X00TD"
+            }
+        ],
+        "donate_url": "http://paypal.me/subinsmani",
+        "full_name": "Subins Mani",
+        "github_username": "subinsmani",
+        "telegram_username": "subinsmani",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=7868666"
     },
     {
-       "full_name":"Swapnil Soni",
-       "telegram_username":"SoniSins",
-       "github_username":"SwapnilSoni1999",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=6844471",
-       "country":"IN",
-       "core_team":true,
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "full_name": "Swapnil Soni",
+        "github_username": "SwapnilSoni1999",
+        "telegram_username": "SoniSins",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=6844471"
     },
     {
-       "full_name":"Tushar Mahajan",
-       "telegram_username":"mahajant99",
-       "github_username":"mahajant99",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=9505787",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"sakura",
-             "bases":[
-                "ten"
-             ]
-          },
-          {
-             "codename":"ysl",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "sakura"
+            },
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "ysl"
+            }
+        ],
+        "full_name": "Tushar Mahajan",
+        "github_username": "mahajant99",
+        "telegram_username": "mahajant99",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9505787"
     },
     {
-       "full_name":"Vipin Mishra",
-       "telegram_username":"thevipinmishra",
-       "github_username":"thevipinmishra",
-       "country":"IN",
-       "core_team":true,
-       "donate_url":"http://paypal.me/thevipinmishra",
-       "devices":[
-          
-       ]
+        "core_team": true,
+        "country": "IN",
+        "devices": [],
+        "donate_url": "http://paypal.me/thevipinmishra",
+        "full_name": "Vipin Mishra",
+        "github_username": "thevipinmishra",
+        "telegram_username": "thevipinmishra"
     },
     {
-       "full_name":"Wesley Jebaraj",
-       "telegram_username":"STRIX247",
-       "github_username":"STRIX247",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=10770383",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"ginkgo",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "ginkgo"
+            }
+        ],
+        "full_name": "Wesley Jebaraj",
+        "github_username": "STRIX247",
+        "telegram_username": "STRIX247",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=10770383"
     },
     {
-       "full_name":"Harshit Verma",
-       "telegram_username":"KonohaHokage",
-       "github_username":"iitachiuchiha",
-       "xda_url":"https://forum.xda-developers.com/member.php?u=10920239",
-       "donate_url":"https://www.paypal.me/iitachiuchihaa",
-       "country":"IN",
-       "core_team":false,
-       "devices":[
-          {
-             "codename":"begonia",
-             "bases":[
-                "ten"
-             ]
-          }
-       ]
+        "core_team": false,
+        "country": "IN",
+        "devices": [
+            {
+                "bases": [
+                    "ten"
+                ],
+                "codename": "begonia"
+            }
+        ],
+        "donate_url": "https://www.paypal.me/iitachiuchihaa",
+        "full_name": "Harshit Verma",
+        "github_username": "iitachiuchiha",
+        "telegram_username": "KonohaHokage",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=10920239"
     }
- ]
+]
