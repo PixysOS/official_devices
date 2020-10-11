@@ -2,10 +2,10 @@
     {
         "brand": "Asus",
         "codename": "X00TD",
-        "maintainer_github": "subinsmani",
-        "maintainer_name": "Subins Mani",
+        "maintainer_github": "Lokesh773, alexmercer09",
+        "maintainer_name": "Lokesh Kasamneni, Rohan Salkar",
         "name": "Zenfone Max Pro M1",
-        "xda_thread": ""
+        "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4109811"
     },
     {
         "brand": "Xiaomi",
@@ -37,7 +37,7 @@
         "maintainer_github": "aswin7469",
         "maintainer_name": "Aswin A S Kurup",
         "name": "Zuk Z2 Plus",
-        "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
+        "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
     },
     {
         "brand": "Lenovo",
@@ -53,7 +53,7 @@
         "maintainer_github": "tesla59, Panchajanya1999",
         "maintainer_name": "Nishant Singh, Panchajanya Sarkar",
         "name": "Redmi Note 7 Pro",
-        "xda_thread": ""
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913"
     },
     {
         "brand": "Xiaomi",
@@ -70,14 +70,6 @@
         "maintainer_name": "Akshay Kakatkar",
         "name": "Redmi K30/Poco X2",
         "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
-    },
-    {
-        "brand": "OnePlus",
-        "codename": "avicii",
-        "maintainer_github": "CryllicBuster273, subinsmani",
-        "maintainer_name": "Akshay Kakatkar, Subins Mani",
-        "name": "OnePlus Nord",
-        "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
     },
     {
         "brand": "Xiaomi",
@@ -138,8 +130,8 @@
     {
         "brand": "Xiaomi",
         "codename": "ginkgo",
-        "maintainer_github": "shreejoy",
-        "maintainer_name": "Shreejoy Dash",
+        "maintainer_github": "STRIX247",
+        "maintainer_name": "Wesley Jebaraj",
         "name": "Redmi Note 8",
         "xda_thread": ""
     },
