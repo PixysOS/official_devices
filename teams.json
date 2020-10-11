@@ -296,7 +296,12 @@
        "country":"IN",
        "core_team":true,
        "devices":[
-          
+          {
+             "codename":"ginkgo",
+             "bases":[
+                "eleven"
+             ]
+          }
        ]
     },
     {
