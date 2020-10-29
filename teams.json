@@ -278,7 +278,9 @@
       "core_team": true,
       "devices": [
          {
-            "bases": [],
+            "bases": [
+               "eleven"
+            ],
             "codename": "ginkgo"
          }
       ]

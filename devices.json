@@ -66,6 +66,10 @@
       },
       "supported_bases": [
          {
+            "name": "eleven",
+            "xda_thread": ""
+         },
+         {
             "name": "ten",
             "xda_thread": ""
          }
