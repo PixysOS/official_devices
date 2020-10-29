@@ -3,13 +3,13 @@
 #### For preserving/adding the official support of a device, It should qualify the below prerequisite: ####
 
 1. The device must be stable and should have full hardware and software compatibility.
-2. The device trees should not have any external dependency and all dependencies should be ready for being open sourced.
-3. The device trees should be made available to public repositories of PixysOS devices organization(s).
-4. The device trees should have all the commits with proper authorship and should be ready for random inspection at anytime.
+2. The device tree's should not have any external dependencies and all dependencies should be ready to be opened for public.
+3. The device tree's should be made avaible to public repositories of PixysOS devices organization(s).
+4. The device tree's should have all the commits with proper authorship and should be ready for random inspection.
 5. The device should be updated bi-weekly or monthly depending on the features update or monthly security releases.
 
 #### Adding the device details to devices.json ####
-The devices.json should be updated with all the needed informations as stated below. To get started open teams.json and fill up these keys accordingly.
+The devices.json should be updated with all the needed informations as stated below. To get started open devices.json and fill up these keys accordingly.
 
 |key|description|type|example|needed|
 --- | --- | --- | --- | ---

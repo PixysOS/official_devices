@@ -4,17 +4,17 @@ There are different set of requirements for being the part of core team or maint
 #### Things you need to secure your stay in maintainers team ####
 1. Before applying you must have done atleast one unoffical build for atleast one week.
 2. You must own the device you wish to maintain. And you should test your builds properly before every release.
-3. The device you maintain should follow the agreement mentioned [here](adding_a_new_device.md).
-4. You must have a good knowledge of using git, github, gerrit. Also ensure all commits you made or you are going to make after being the part should be properly authored and properly documented.
-5. As a device maintainer, You should update your device regularly. And you hold the responsibilty to ensure every build is properly tested and is bug-free.
-6. You must be a part of the telegram groups and channels.
-7. You must be well mannered and co operative to your co-maintainers, administrators and most importantly to your users. Any instance of hateful speech or flame war comes under the notice of any administrator or team member then you may need to have a proper explaination to show that you did it for a valid reason to save your postion in the project, Excepting that PixysOS does not believe/support in any type of beheviour that involves hate or abuse.
+3. The device you maintain should following the agreement mentioned [here](adding_a_new_device.md).
+4. You must have a good knowledge of using git, github, gerrit. Also ensure all commits you made or about to make after being the part should be properly authored and properly documented.
+5. As a device maintainer, You should update your device regularly. And you hold the responsibilty to ensure every build is properly tested and is bug free.
+6. You must be a part of the telegram group's and channel's of PixysOS.
+7. You must be well mannered and co operative to your co maintainers, administrators and most importantly to your users. Any instance of hateful speech or flame war comes under the notice of any administrator or team member then you may need to have a proper explaination to show that you did it for a valid reason to save your postion in the project, Excepting that PixysOS does not believe/support in any type of beheviour that involves hate or abuse.
 
 #### Things you need to secure your stay in core team ####
 1. You must follow the rule 6 & 7 from maintainers guideline.
 2. You must have been the part of the project for a certain time.
-3. You must have contributed to the project in anyway. Ex. it maybe community administrator, designer, main source helper or even maintainers, moderator etc.
-4. Most importantly the project lead should approve your/to-be designated position.
+3. You must have contributed to the project in anyway. Ex. it maybe community administrator, designer, gerrit contributor or even maintainers and moderator etc.
+4. Most importantly the project lead should approve the designated position.
 
 #### Adding your details to teams.json ####
 The teams.json should be updated with all the needed informations as stated below.

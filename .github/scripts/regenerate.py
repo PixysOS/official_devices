@@ -6,7 +6,7 @@ import operator
 
 SUGGESTIONS = []
 ALLOWED_BASES = ['eleven', 'ten']
-DEVICES_KEYS = ['codename', 'brand', 'name', 'specs', 'supported_bases']
+DEVICES_KEYS = ['codename', 'brand', 'name', 'status', 'specs', 'supported_bases']
 TEAMS_KEYS = ['full_name', 'country', 'github_username',
               'telegram_username', 'xda_url', 'donate_url', 'core_team', 'devices']
 
