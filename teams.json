@@ -26,9 +26,15 @@
       "devices": [
          {
             "bases": [
-               "ten"
+               "eleven"
             ],
-            "codename": "phoenix"
+            "codename": "phoenix",
+         },
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "avicii",
          }
       ]
    },
@@ -335,6 +341,12 @@
          {
             "bases": [],
             "codename": "X00TD"
+         },
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "avicii",
          }
       ]
    },

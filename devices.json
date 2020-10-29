@@ -160,7 +160,7 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
+            "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
          }
       ]
@@ -255,6 +255,24 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913"
          }
       ]
+   },
+   {
+       "brand": "OnePlus",
+       "codename": "avicii",
+       "name": "OnePlus Nord",
+       "specs": {
+           "battery": 4115,
+           "camera": "48Mpx 8Mpx 5Mpx 2Mpx + 32Mpx 8Mpx",
+           "cpu": "Snapdragon 765G",
+           "display": "IPS 6.44\" 1080p",
+           "ram": "6/8/12GB LPDDR4X"
+       },
+       "supported_bases": [
+           {
+               "name": "eleven",
+               "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
+           }
+       ]
    },
    {
       "codename": "whyred",
