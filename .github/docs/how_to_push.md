@@ -7,7 +7,7 @@ If its your first time dealing with gerrit then you can find the docs for gerrit
 #### Next step ####
 If you are ready with all your changes and your gerrit setup then you are ready for your next step i.e pushing.
 
-1. Stag your changes
+1. Stage your changes
 ```
 git add devices.json
 git add teams.json
