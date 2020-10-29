@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7975385e_c6f23b94",
+        "filename": ".github/docs/adding_a_new_device.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-10-29T13:44:30Z",
+      "side": 1,
+      "message": "available*",
+      "revId": "e25f8910f4ca5d6e67c1af85019f6e094a3cf5f2",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5826ad57_cb2b8cac",
+        "filename": ".github/docs/adding_a_new_team_member.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-10-29T13:44:30Z",
+      "side": 1,
+      "message": "requirement*",
+      "revId": "e25f8910f4ca5d6e67c1af85019f6e094a3cf5f2",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "88486e4f_6766f9fc",
+        "filename": ".github/docs/how_to_push.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2020-10-29T13:44:30Z",
+      "side": 1,
+      "message": "stage*",
+      "range": {
+        "startLine": 9,
+        "startChar": 3,
+        "endLine": 9,
+        "endChar": 8
+      },
+      "revId": "e25f8910f4ca5d6e67c1af85019f6e094a3cf5f2",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028",
+      "unresolved": false
+    }
+  ]
+}
