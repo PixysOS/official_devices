@@ -20,8 +20,8 @@
       "brand": "Xiaomi",
       "codename": "beryllium",
       "xda_thread": "",
-      "maintainers_name": "Nishant Singh",
-      "maintainers_github": "tesla59"
+      "maintainers_name": "",
+      "maintainers_github": ""
    },
    {
       "name": "Redmi Note 8",
@@ -94,14 +94,6 @@
       "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
       "maintainers_name": "Lucas Ponez Da Mota",
       "maintainers_github": "lucasponez"
-   },
-   {
-      "name": "Redmi Note 7 Pro",
-      "brand": "Xiaomi",
-      "codename": "violet",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
-      "maintainers_name": "Nishant Singh, Panchajanya Sarkar",
-      "maintainers_github": "tesla59, Panchajanya1999"
    },
    {
       "name": "Redmi Note 5 Pro",
