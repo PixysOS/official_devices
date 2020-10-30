@@ -220,16 +220,6 @@
       ]
    },
    {
-      "full_name": "Psycho Mods",
-      "country": "IN",
-      "github_username": "psycho-source",
-      "telegram_username": "psycho_mods",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=6237352",
-      "donate_url": "http://paypal.me/psychomod",
-      "core_team": true,
-      "devices": []
-   },
-   {
       "full_name": "Panchajanya Sarkar",
       "country": "IN",
       "github_username": "Panchajanya1999",
@@ -245,6 +235,16 @@
             "codename": "violet"
          }
       ]
+   },
+   {
+      "full_name": "Psycho Mods",
+      "country": "IN",
+      "github_username": "psycho-source",
+      "telegram_username": "psycho_mods",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6237352",
+      "donate_url": "http://paypal.me/psychomod",
+      "core_team": true,
+      "devices": []
    },
    {
       "full_name": "Rahul yadav",
