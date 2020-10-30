@@ -26,12 +26,26 @@
       "devices": [
          {
             "bases": [
+               "ten"
+            ],
+            "codename": "jasmine_sprout"
+         },
+         {
+            "bases": [
+               "ten"
+            ],
+            "codename": "wayne"
+         },
+         {
+            "bases": [
+               "ten",
                "eleven"
             ],
             "codename": "phoenix"
          },
          {
             "bases": [
+               "ten",
                "eleven"
             ],
             "codename": "avicii"
@@ -186,9 +200,16 @@
       "devices": [
          {
             "bases": [
+               "ten",
                "eleven"
             ],
             "codename": "violet"
+         },
+         {
+            "bases": [
+               "ten"
+            ],
+            "codename": "beryllium"
          }
       ]
    },
@@ -212,6 +233,7 @@
       "devices": [
          {
             "bases": [
+               "ten",
                "eleven"
             ],
             "codename": "violet"
@@ -338,6 +360,7 @@
          },
          {
             "bases": [
+               "ten",
                "eleven"
             ],
             "codename": "avicii"
