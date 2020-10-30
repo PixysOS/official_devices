@@ -65,13 +65,14 @@
       "full_name": "Alisson Grizotti",
       "country": "BR",
       "github_username": "AlissonGrizotti",
-      "telegram_username": "Alissonrgi",
+      "telegram_username": "Bagualisson",
       "xda_url": "https://forum.xda-developers.com/member.php?u=7677621",
       "core_team": false,
       "devices": [
          {
             "bases": [
-               "ten"
+               "ten",
+               "eleven"
             ],
             "codename": "lavender"
          }
