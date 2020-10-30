@@ -305,6 +305,24 @@
       ]
    },
    {
+      "codename": "tulip",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 6 Pro",
+      "specs": {
+         "battery": 4000,
+         "camera": "12Mpx 5Mpx + 20Mpx 2Mpx",
+         "cpu": "Snapdragon 636",
+         "display": "IPS 6.26\" 1080p",
+         "ram": "3/4/6GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "codename": "violet",
       "brand": "Xiaomi",
       "name": "Redmi Note 7 Pro",
