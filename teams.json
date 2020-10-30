@@ -110,7 +110,8 @@
       "devices": [
          {
             "bases": [
-               "ten"
+               "ten",
+               "eleven"
             ],
             "codename": "z2_plus"
          },
