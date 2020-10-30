@@ -16,6 +16,14 @@
       "maintainers_github": "shreejoy"
    },
    {
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/11-0-pixysos-v4-0-1-t4183927",
+      "maintainers_name": "Alisson Grizotti",
+      "maintainers_github": "AlissonGrizotti"
+   },
+   {
       "name": "Redmi K30/Poco X2",
       "brand": "Xiaomi",
       "codename": "phoenix",
