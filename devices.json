@@ -8,6 +8,14 @@
       "maintainers_github": "Lokesh773, alexmercer09"
    },
    {
+      "name": "Nord",
+      "brand": "OnePlus",
+      "codename": "avicii",
+      "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127",
+      "maintainers_name": "Akshay Kakatkar, Subins Mani",
+      "maintainers_github": "CryllicBuster273, subinsmani"
+   },
+   {
       "name": "Redmi Note 8 Pro",
       "brand": "Xiaomi",
       "codename": "begonia",
@@ -20,8 +28,8 @@
       "brand": "Xiaomi",
       "codename": "beryllium",
       "xda_thread": "",
-      "maintainers_name": "",
-      "maintainers_github": ""
+      "maintainers_name": "Nishant Singh",
+      "maintainers_github": "tesla59"
    },
    {
       "name": "Redmi Note 8",
@@ -30,6 +38,14 @@
       "xda_thread": "",
       "maintainers_name": "Wesley Jebaraj",
       "maintainers_github": "STRIX247"
+   },
+   {
+      "name": "Mi A2",
+      "brand": "Xiaomi",
+      "codename": "jasmine_sprout",
+      "xda_thread": "",
+      "maintainers_name": "Akshay Kakatkar",
+      "maintainers_github": "CryllicBuster273"
    },
    {
       "name": "Redmi Note 7",
@@ -64,6 +80,14 @@
       "maintainers_github": "AbhinandAK350"
    },
    {
+      "name": "Redmi K30/Poco X2",
+      "brand": "Xiaomi",
+      "codename": "phoenix",
+      "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+      "maintainers_name": "Akshay Kakatkar",
+      "maintainers_github": "CryllicBuster273"
+   },
+   {
       "name": "Redmi 5A",
       "brand": "Xiaomi",
       "codename": "riva",
@@ -94,6 +118,22 @@
       "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
       "maintainers_name": "Lucas Ponez Da Mota",
       "maintainers_github": "lucasponez"
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
+      "maintainers_name": "Nishant Singh, Panchajanya Sarkar",
+      "maintainers_github": "tesla59, Panchajanya1999"
+   },
+   {
+      "name": "Mi 6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "xda_thread": "",
+      "maintainers_name": "Akshay Kakatkar",
+      "maintainers_github": "CryllicBuster273"
    },
    {
       "name": "Redmi Note 5 Pro",
