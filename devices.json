@@ -100,6 +100,25 @@
       ]
    },
    {
+      "codename": "jasmine_sprout",
+      "brand": "Xiaomi",
+      "name": "Mi A2",
+      "specs": {
+         "battery": 3010,
+         "camera": "12Mpx 20Mpx + 20Mpx",
+         "cpu": "Snapdragon 660",
+         "display": "IPS 5.99\" 1080p",
+         "ram": "4/6GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "ten",
+            "xda_thread": "",
+            "status": "deprecated"
+         }
+      ]
+   },
+   {
       "codename": "lavender",
       "brand": "Xiaomi",
       "name": "Redmi Note 7",
@@ -168,44 +187,6 @@
          {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099"
-         }
-      ]
-   },
-   {
-      "codename": "jasmine_sprout",
-      "brand": "Xiaomi",
-      "name": "Mi A2",
-      "specs":{
-         "battery":3010,
-         "camera":"12Mpx 20Mpx + 20Mpx",
-         "cpu":"Snapdragon 660",
-         "display":"IPS 5.99\" 1080p",
-         "ram":"4/6GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "status": "deprecated"
-         }
-      ]
-   },
-   {
-      "codename": "wayne",
-      "brand": "Xiaomi",
-      "name": "Mi 6X",
-      "specs":{
-         "battery":3010,
-         "camera":"12Mpx 20Mpx + 20Mpx",
-         "cpu":"Snapdragon 660",
-         "display":"IPS 5.99\" 1080p",
-         "ram":"4/6GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "status": "deprecated"
          }
       ]
    },
@@ -325,6 +306,25 @@
          {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t4175247"
+         }
+      ]
+   },
+   {
+      "codename": "wayne",
+      "brand": "Xiaomi",
+      "name": "Mi 6X",
+      "specs": {
+         "battery": 3010,
+         "camera": "12Mpx 20Mpx + 20Mpx",
+         "cpu": "Snapdragon 660",
+         "display": "IPS 5.99\" 1080p",
+         "ram": "4/6GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "ten",
+            "xda_thread": "",
+            "status": "deprecated"
          }
       ]
    },
