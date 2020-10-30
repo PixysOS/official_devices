@@ -22,7 +22,7 @@
       "telegram_username": "CryllicBuster273",
       "xda_url": "https://forum.xda-developers.com/member.php?u=10543397",
       "donate_url": "https://paypal.me/KakatkarAkshay",
-      "core_team": false,
+      "core_team": true,
       "devices": [
          {
             "bases": [
@@ -196,7 +196,7 @@
       "github_username": "tesla59",
       "telegram_username": "tesla59",
       "xda_url": "https://forum.xda-developers.com/member.php?u=9042762",
-      "core_team": false,
+      "core_team": true,
       "devices": [
          {
             "bases": [
