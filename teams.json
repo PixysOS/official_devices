@@ -186,13 +186,7 @@
       "devices": [
          {
             "bases": [
-               "ten"
-            ],
-            "codename": "beryllium"
-         },
-         {
-            "bases": [
-               "ten"
+               "eleven"
             ],
             "codename": "violet"
          }
@@ -218,7 +212,7 @@
       "devices": [
          {
             "bases": [
-               "ten"
+               "eleven"
             ],
             "codename": "violet"
          }
