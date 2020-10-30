@@ -30,6 +30,11 @@
       },
       "supported_bases": [
          {
+            "name": "ten",
+            "status": "deprecated",
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
+         },
+         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
          }
@@ -67,7 +72,8 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "status": "deprecated"
          }
       ]
    },
@@ -166,6 +172,44 @@
       ]
    },
    {
+      "codename": "jasmine_sprout",
+      "brand": "Xiaomi",
+      "name": "Mi A2",
+      "specs":{
+         "battery":3010,
+         "camera":"12Mpx 20Mpx + 20Mpx",
+         "cpu":"Snapdragon 660",
+         "display":"IPS 5.99\" 1080p",
+         "ram":"4/6GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "ten",
+            "xda_thread": "",
+            "status": "deprecated"
+         }
+      ]
+   },
+   {
+      "codename": "wayne",
+      "brand": "Xiaomi",
+      "name": "Mi 6X",
+      "specs":{
+         "battery":3010,
+         "camera":"12Mpx 20Mpx + 20Mpx",
+         "cpu":"Snapdragon 660",
+         "display":"IPS 5.99\" 1080p",
+         "ram":"4/6GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "ten",
+            "xda_thread": "",
+            "status": "deprecated"
+         }
+      ]
+   },
+   {
       "codename": "phoenix",
       "brand": "Xiaomi",
       "name": "Redmi K30/Poco X2",
@@ -177,6 +221,11 @@
          "ram": "6/8GB LPDDR4X"
       },
       "supported_bases": [
+         {
+            "name": "ten",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+            "status": "deprecated"
+         },
          {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
@@ -268,6 +317,11 @@
          "ram": "4/6GB LPDDR4X"
       },
       "supported_bases": [
+         {
+            "name": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
+            "status": "deprecated"
+         },
          {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t4175247"
