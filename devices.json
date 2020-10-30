@@ -287,6 +287,24 @@
       ]
    },
    {
+      "codename": "surya",
+      "brand": "Xiaomi",
+      "name": "Poco X3",
+      "specs": {
+         "battery": 6000,
+         "camera": "64Mpx 13Mpx 2Mpx 2Mpx + 20Mpx",
+         "cpu": "Snapdragon 732G",
+         "display": "IPS 6.67\" 1080p",
+         "ram": "6/8GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "codename": "violet",
       "brand": "Xiaomi",
       "name": "Redmi Note 7 Pro",
