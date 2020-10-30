@@ -435,11 +435,11 @@
             "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
          },
-	 {
+         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
-	 }
-     ]
+         }
+      ]
    },
    {
       "codename": "z2_row",
@@ -455,7 +455,7 @@
       "supported_bases": [
          {
             "name": "ten",
-	    "status": "deprecated",
+            "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859"
          }
       ]
