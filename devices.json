@@ -46,5 +46,13 @@
       "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t4175247",
       "maintainers_name": "Nishant Singh, Panchajanya Sarkar",
       "maintainers_github": "tesla59, Panchajanya1999"
+   },
+   {
+      "name": "Zuk Z2 Plus",
+      "brand": "Lenovo",
+      "codename": "z2_plus",
+      "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355",
+      "maintainers_name": "Aswin A S Kurup",
+      "maintainers_github": "aswin7469"
    }
 ]
