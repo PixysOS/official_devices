@@ -22,5 +22,13 @@
       "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
       "maintainers_name": "Akshay Kakatkar",
       "maintainers_github": "CryllicBuster273"
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t4175247",
+      "maintainers_name": "Nishant Singh, Panchajanya Sarkar",
+      "maintainers_github": "tesla59, Panchajanya1999"
    }
 ]
