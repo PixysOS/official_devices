@@ -135,8 +135,8 @@
       "devices": [
          {
             "bases": [
-               "eleven",
-               "ten"
+               "ten",
+               "eleven"
             ],
             "codename": "begonia"
          }
