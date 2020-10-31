@@ -53,8 +53,13 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
+            "name": "ten"
+            "status": "deprecated",,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539"
+         },
+         {
+            "name": "eleven",
+            "xda_thread": ""
          }
       ]
    },
