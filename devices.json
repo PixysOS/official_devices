@@ -8,6 +8,14 @@
       "maintainers_github": "CryllicBuster273, subinsmani"
    },
    {
+      "name": "Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249",
+      "maintainers_name": "Harshit Verma",
+      "maintainers_github": "iitachiuchiha"
+   },
+   {
       "name": "Redmi Note 8",
       "brand": "Xiaomi",
       "codename": "ginkgo",
