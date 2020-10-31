@@ -125,22 +125,6 @@
       ]
    },
    {
-      "full_name": "Dimitar Yurukov",
-      "country": "BG",
-      "github_username": "mscalindt",
-      "telegram_username": "mscalindt",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7946403",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "rosy"
-         }
-      ]
-   },
-   {
       "full_name": "Harshit Verma",
       "country": "IN",
       "github_username": "iitachiuchiha",

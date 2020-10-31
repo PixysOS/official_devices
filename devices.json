@@ -237,24 +237,6 @@
       ]
    },
    {
-      "codename": "rosy",
-      "brand": "Xiaomi",
-      "name": "Redmi 5",
-      "specs": {
-         "battery": 3300,
-         "camera": "12Mpx + 5Mpx",
-         "cpu": "Snapdragon 450",
-         "display": "IPS 5.70\" 1080p",
-         "ram": "2/3/4GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
       "codename": "sakura",
       "brand": "Xiaomi",
       "name": "Redmi 6 Pro",
