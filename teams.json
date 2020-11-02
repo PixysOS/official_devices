@@ -421,5 +421,21 @@
             "codename": "ginkgo"
          }
       ]
+   },
+   {
+      "full_name": "Clarence Kuiek",
+      "country": "MY",
+      "github_username": "clarencelol",
+      "telegram_username": "clarencejasmeme",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7812700",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "jasmine_sprout"
+         }
+      ] 
    }
 ]
