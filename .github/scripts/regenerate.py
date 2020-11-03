@@ -2,7 +2,6 @@ import json
 import sys
 
 api = []
-print(sys.argv)
 branch = sys.argv[1]
 devices = json.loads(open('master/devices.json', 'r').read())
 teams = json.loads(open('master/teams.json', 'r').read())
