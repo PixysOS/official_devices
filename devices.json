@@ -454,5 +454,22 @@
             "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859"
          }
       ]
-   }
+   },
+   {
+    "codename": "davinci",
+    "brand": "Xiaomi",
+    "name": "Mi 9T/Redmi K20",
+    "specs": {
+       "battery": 4000,
+       "camera": "48Mpx + 8Mpx + 13Mpx + 20Mpx",
+       "cpu": "Snapdragon 730",
+       "display": "AMOLED 6.39\" 1080p",
+       "ram": "6/8GB"
+    },
+    "supported_bases": [
+       {
+          "name": "eleven"
+       }
+    ]
+ }
 ]
