@@ -12,6 +12,10 @@
       },
       "supported_bases": [
          {
+            "name": "eleven",
+            "xda_thread": ""
+         },
+         {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4109811"
          }
