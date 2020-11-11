@@ -161,7 +161,8 @@
       "devices": [
          {
             "bases": [
-               "ten"
+               "ten",
+               "eleven"
             ],
             "codename": "X00TD"
          }
@@ -264,6 +265,7 @@
          {
             "bases": [
                "ten"
+               "eleven"
             ],
             "codename": "X00TD"
          }
