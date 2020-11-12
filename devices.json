@@ -39,7 +39,7 @@
          },
          {
             "name": "ten",
-	    "status": "deprecated",
+            "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
          }
       ]
@@ -62,7 +62,7 @@
          },
          {
             "name": "ten",
-	    "status": "deprecated",
+            "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539"
          }
       ]
@@ -240,7 +240,7 @@
          {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
-	    "status": "deprecated"
+            "status": "deprecated"
          }
       ]
    },
@@ -358,7 +358,7 @@
          {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
-	    "status": "deprecated"
+            "status": "deprecated"
          }
       ]
    },
@@ -453,7 +453,7 @@
          },
          {
             "name": "ten",
-	    "status": "deprecated",
+            "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
          }
       ]
