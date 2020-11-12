@@ -34,12 +34,12 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "status": "deprecated",
+            "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
          },
          {
-            "name": "eleven",
+            "name": "ten",
+	    "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
          }
       ]
@@ -57,13 +57,13 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "status": "deprecated",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539"
-         },
-         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249"
+         },
+         {
+            "name": "ten",
+	    "status": "deprecated",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539"
          }
       ]
    },
@@ -158,12 +158,12 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949"
-         },
-         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/11-0-pixysos-v4-0-1-t4183927"
+         },
+         {
+            "name": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949"
          }
       ]
    },
@@ -234,13 +234,13 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
-            "status": "deprecated"
-         },
-         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
+         },
+         {
+            "name": "ten",
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+	    "status": "deprecated"
          }
       ]
    },
@@ -294,12 +294,12 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257"
-         },
-         {
             "name": "eleven",
             "xda_thread": ""
+         },
+         {
+            "name": "ten",
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257"
          }
       ]
    },
@@ -352,13 +352,13 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
-            "status": "deprecated"
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t417524"
          },
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t4175247"
+            "name": "ten",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
+	    "status": "deprecated"
          }
       ]
    },
@@ -448,13 +448,13 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "status": "deprecated",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
-         },
-         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
+         },
+         {
+            "name": "ten",
+	    "status": "deprecated",
+            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
          }
       ]
    },
