@@ -293,6 +293,10 @@
       },
       "supported_bases": [
          {
+            "name": "eleven",
+            "xda_thread": " https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v4-0-2-t4190559"
+         },
+         {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921"
          }
