@@ -24,6 +24,14 @@
       "maintainers_github": "iitachiuchiha"
    },
    {
+      "name": "Mi 9T/Redmi K20",
+      "brand": "Xiaomi",
+      "codename": "davinci",
+      "xda_thread": "",
+      "maintainers_name": "Zafer Ysuf Vardar",
+      "maintainers_github": "noonlord"
+   },
+   {
       "name": "Redmi Note 8",
       "brand": "Xiaomi",
       "codename": "ginkgo",
