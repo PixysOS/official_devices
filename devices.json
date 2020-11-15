@@ -13,6 +13,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": true,
             "xda_thread": ""
          },
          {
@@ -35,6 +36,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
          },
          {
@@ -58,6 +60,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249"
          },
          {
@@ -99,7 +102,8 @@
       },
       "supported_bases": [
          {
-            "name": "eleven"
+            "name": "eleven",
+	    "full_sign": true
          }
       ]
    },
@@ -117,6 +121,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": true,
             "xda_thread": ""
          },
          {
@@ -158,6 +163,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269"
          }
       ]
@@ -176,6 +182,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/11-0-pixysos-v4-0-1-t4183927"
          },
          {
@@ -252,6 +259,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
          },
          {
@@ -294,6 +302,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": " https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v4-0-2-t4190559"
          },
          {
@@ -316,6 +325,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": true,
             "xda_thread": ""
          },
          {
@@ -338,6 +348,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269"
          }
       ]
@@ -356,6 +367,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": true,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/pixysos-4-0-1-tulip-android-11-t4184933"
          }
       ]
@@ -374,6 +386,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": false,
             "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t417524"
          },
          {
@@ -470,6 +483,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+	    "full_sign": true,
             "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
          },
          {
