@@ -430,5 +430,20 @@
             "codename": "ginkgo"
          }
       ]
-   }
+   },
+   {
+    "full_name": "Zafer Ysuf Vardar",
+    "country": "TR",
+    "github_username": "noonlord",
+    "telegram_username": "noonlord",
+    "core_team": false,
+    "devices": [
+       {
+          "bases": [
+             "eleven"
+          ],
+          "codename": "davinci"
+       }
+    ]
+ }
 ]
