@@ -13,7 +13,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": ""
+            "xda_thread": "",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -35,7 +36,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127"
+            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -58,7 +60,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -99,7 +102,8 @@
       },
       "supported_bases": [
          {
-            "name": "eleven"
+            "name": "eleven",
+            "supported_edition": ["vanilla", "gapps"]
          }
       ]
    },
@@ -117,7 +121,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": ""
+            "xda_thread": "",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -158,7 +163,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269"
+            "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269",
+            "supported_edition": ["vanilla", "gapps"]
          }
       ]
    },
@@ -176,7 +182,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/11-0-pixysos-v4-0-1-t4183927"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/11-0-pixysos-v4-0-1-t4183927",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -252,7 +259,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111"
+            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -294,7 +302,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": " https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v4-0-2-t4190559"
+            "xda_thread": " https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v4-0-2-t4190559",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -316,7 +325,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": ""
+            "xda_thread": "",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -374,7 +384,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t417524"
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/r-pixysos-4-0-1-t417524",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
@@ -470,7 +481,8 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355"
+            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355",
+            "supported_edition": ["vanilla", "gapps"]
          },
          {
             "name": "ten",
