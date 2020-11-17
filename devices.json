@@ -523,6 +523,14 @@
       },
       "supported_bases": [
          {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         },
+         {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
             "supported_edition": [

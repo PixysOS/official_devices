@@ -313,7 +313,8 @@
       "devices": [
          {
             "bases": [
-               "ten"
+               "ten",
+               "eleven"
             ],
             "codename": "whyred"
          }
