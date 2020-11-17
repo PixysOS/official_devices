@@ -104,6 +104,14 @@
       "maintainers_github": "tesla59, Panchajanya1999"
    },
    {
+      "name": "Redmi Note 5 Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
+      "maintainers_name": "Sipun Kumar Mahanta",
+      "maintainers_github": "Sweeto143"
+   },
+   {
       "name": "Zuk Z2 Plus",
       "brand": "Lenovo",
       "codename": "z2_plus",
