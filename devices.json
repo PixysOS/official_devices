@@ -376,7 +376,11 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921"
+            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
          }
       ]
    },
@@ -402,7 +406,11 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257"
+            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
          }
       ]
    },
@@ -530,7 +538,12 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": ""
+            "xda_thread": "",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+
          }
       ]
    },
@@ -548,7 +561,11 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599"
+            "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
          }
       ]
    },
@@ -574,7 +591,11 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587"
+            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
          }
       ]
    },
@@ -592,7 +613,11 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859"
+            "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
          }
       ]
    }
