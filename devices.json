@@ -635,5 +635,27 @@
             ]
          }
       ]
+   },
+   {
+      "codename": "raphael",
+      "brand": "Xiaomi",
+      "name": "Mi 9T Pro/Redmi K20 Pro",
+      "specs": {
+         "battery": 4000,
+         "camera": "48Mpx + 8Mpx + 13Mpx + 20Mpx",
+         "cpu": "Snapdragon 855",
+         "display": "AMOLED 6.39\" 1080p",
+         "ram": "6/8GB"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": "",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
    }
 ]
