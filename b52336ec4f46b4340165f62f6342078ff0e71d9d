@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f5e8c7d1_80cb9781",
+        "filename": "devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 650,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-11-19T02:08:37Z",
+      "side": 1,
+      "message": "Why removed name:, xda_thread:, supported_edition field. Pleas add the details of respective field too.",
+      "revId": "b52336ec4f46b4340165f62f6342078ff0e71d9d",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028",
+      "unresolved": true
+    }
+  ]
+}
