@@ -56,6 +56,14 @@
       "maintainers_github": "AlissonGrizotti"
    },
    {
+      "name": "Redmi 7",
+      "brand": "Xiaomi",
+      "codename": "onclite",
+      "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
+      "maintainers_name": "Abhinand A K",
+      "maintainers_github": "AbhinandAK350"
+   },
+   {
       "name": "Redmi K30/Poco X2",
       "brand": "Xiaomi",
       "codename": "phoenix",
