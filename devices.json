@@ -292,14 +292,14 @@
          "ram": "2/3GB"
       },
       "supported_bases": [
-	 {
-	    "name": "eleven",
-	    "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
-	    "supported_edition": [
-	       "vanilla",
-	       "gapps"
-	    ]
-	 },
+         {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         },
          {
             "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
