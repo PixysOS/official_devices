@@ -46,7 +46,6 @@
          },
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "avicii"
@@ -122,6 +121,12 @@
                "ten"
             ],
             "codename": "z2_row"
+         },
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "avicii"
          }
       ]
    },
@@ -358,7 +363,6 @@
          },
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "avicii"

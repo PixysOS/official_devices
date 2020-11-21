@@ -48,14 +48,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/oneplus-nord/development/rom-pixysos-t4151127",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
