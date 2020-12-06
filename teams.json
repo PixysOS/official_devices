@@ -1,5 +1,22 @@
 [
    {
+      "full_name": "Abhishek Thomas Varghese",
+      "country": "IN",
+      "github_username": "AbhishekRMX1901",
+      "telegram_username": "Abh_ishe_K",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=11068517",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "RMX1901"
+         }
+      ]
+   },
+
+   {
       "full_name": "Abhinand A K",
       "country": "IN",
       "github_username": "AbhinandAK350",

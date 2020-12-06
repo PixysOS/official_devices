@@ -1,4 +1,26 @@
 [
+{
+      "codename": "RMX1901",
+      "brand": "Realme",
+      "name": "X",
+      "specs": {
+         "battery": 3765,
+         "camera": "48Mpx 5Mpx + 16Mpx",
+         "cpu": "Snapdragon 710",
+         "display": "IPS 6.57\" 1080p",
+         "ram": "4/8GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-pixysos-v4-0-2-realme-x-rmx1901.4198979/",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
+   },
    {
       "codename": "X00TD",
       "brand": "Asus",
