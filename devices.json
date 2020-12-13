@@ -40,14 +40,6 @@
       "maintainers_github": "shreejoy"
    },
    {
-      "name": "Poco X3",
-      "brand": "Xiaomi",
-      "codename": "karna",
-      "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269",
-      "maintainers_name": "Tushar Mahajan",
-      "maintainers_github": "mahajant99"
-   },
-   {
       "name": "Redmi Note 7",
       "brand": "Xiaomi",
       "codename": "lavender",
