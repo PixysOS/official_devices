@@ -62,11 +62,12 @@
       "devices": []
    },
    {
-      "full_name": "Alisson Grizotti",
+      "full_name": "Alisson Grizotti Bagual",
       "country": "BR",
       "github_username": "AlissonGrizotti",
       "telegram_username": "Bagualisson",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=7677621",
+      "xda_url": "https://forum.xda-developers.com/m/alisson1397.7677621/",
+      "donate_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WFJG3Q8VUF49U&currency_code=BRL&source=url",
       "core_team": false,
       "devices": [
          {
