@@ -389,7 +389,8 @@
       "devices": [
          {
             "bases": [
-               "ten"
+               "ten",
+               "eleven"
             ],
             "codename": "sakura"
          },
