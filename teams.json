@@ -168,8 +168,7 @@
       "devices": [
          {
             "bases": [
-               "ten",
-               "eleven"
+               "ten"
             ],
             "codename": "X00TD"
          }
@@ -271,8 +270,7 @@
       "devices": [
          {
             "bases": [
-               "ten",
-               "eleven"
+               "ten"
             ],
             "codename": "X00TD"
          }
@@ -359,7 +357,9 @@
             "codename": "riva"
          },
          {
-            "bases": [],
+            "bases": [
+               "eleven"
+            ],
             "codename": "X00TD"
          },
          {
