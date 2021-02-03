@@ -333,6 +333,28 @@
       ]
    },
    {
+      "codename": "rosy",
+      "brand": "Xiaomi",
+      "name": "Redmi 5",
+      "specs": {
+         "battery": 3300,
+         "camera": "12Mpx + 5Mpx",
+         "cpu": "Snapdragon 450",
+         "display": "IPS 5.7\" 720p",
+         "ram": "2/3/4GB"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": "",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "sakura",
       "brand": "Xiaomi",
       "name": "Redmi 6 Pro",
