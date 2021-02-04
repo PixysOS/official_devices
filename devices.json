@@ -4,8 +4,8 @@
       "brand": "Asus",
       "codename": "X00TD",
       "xda_thread": "",
-      "maintainers_name": "Lokesh Kasamneni, Rohan Salkar",
-      "maintainers_github": "Lokesh773, alexmercer09"
+      "maintainers_name": "Subins Mani",
+      "maintainers_github": "subinsmani"
    },
    {
       "name": "Nord",
@@ -13,7 +13,7 @@
       "codename": "avicii",
       "xda_thread": "https://forum.xda-developers.com/t/rom-android-10-avicii-pixysos-aosp-2020-09-15-test-build-stable.4151127/",
       "maintainers_name": "Akshay Kakatkar, Aswin A S Kurup, Subins Mani",
-      "maintainers_github": "CryllicBuster273, aswin7469, subinsmani"
+      "maintainers_github": "KakatkarAkshay, aswin7469, subinsmani"
    },
    {
       "name": "Redmi Note 8 Pro",
@@ -61,7 +61,15 @@
       "codename": "phoenix",
       "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
       "maintainers_name": "Akshay Kakatkar",
-      "maintainers_github": "CryllicBuster273"
+      "maintainers_github": "KakatkarAkshay"
+   },
+   {
+      "name": "Redmi 5",
+      "brand": "Xiaomi",
+      "codename": "rosy",
+      "xda_thread": "",
+      "maintainers_name": "Ebin",
+      "maintainers_github": "arulebin"
    },
    {
       "name": "Redmi 6 Pro",
