@@ -132,21 +132,6 @@
       ]
    },
    {
-      "full_name": "Ebin",
-      "country": "IN",
-      "github_username": "arulebin",
-      "telegram_username": "Ebin_A",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "eleven"
-            ],
-            "codename": "rosy"
-         }
-      ]
-   },
-   {
       "full_name": "Harshit Verma",
       "country": "IN",
       "github_username": "iitachiuchiha",
