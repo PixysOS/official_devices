@@ -615,3 +615,27 @@
       ]
    }
 ]
+
+{
+      "codename": "Ysl",
+      "brand": "Xiaomi",
+      "name": "Redmi S2/Y2",
+      "specs": {
+         "battery": 3080,
+         "camera": "12Mpx 5Mpx + 16Mpx",
+         "cpu": "SD 625",
+         "display": "HD+ 5.99\" 720p",
+         "ram": "3/4 GB"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/pixys-os-for-redmi-s2-y2-ysl.4235419/",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
+   }
+]
