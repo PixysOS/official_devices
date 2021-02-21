@@ -29,7 +29,6 @@ steps:
     image: 'python:3.8-slim'
     commands:
       - pip3 install requests
-      - printenv
       - printf "import requests\nrequests.post('$hook_url', {'head_commit':'${CI_COMMIT_SHA}', 'status':'${DRONE_BUILD_STATUS^^}'}, headers={'web_api_key':'$web_api_key'})" | python3
     environment:
       web_api_key:
