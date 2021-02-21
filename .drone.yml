@@ -13,7 +13,8 @@ steps:
   - name: Initial
     image: 'python:3.8-slim'
     commands:
-      - apt-get update && apt-get install curl git -y
+      - apt-get update > /dev/null
+      - apt-get install curl git -y > /dev/null
       - curl -L "$DRONE_REPO_LINK"/raw/master/.github/scripts.tar.gz --output scripts.tar.gz
       - openssl enc -d -aes256 -salt -pbkdf2 -in scripts.tar.gz -pass env:PASSWORD | tar xz
       - bash runner.sh
