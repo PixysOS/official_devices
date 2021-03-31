@@ -576,6 +576,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+            "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355",
             "supported_edition": [
                "vanilla",
