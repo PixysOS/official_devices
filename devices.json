@@ -294,6 +294,7 @@
       "supported_bases": [
          {
             "name": "eleven",
+            "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
             "supported_edition": [
                "vanilla",
