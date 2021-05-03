@@ -416,6 +416,28 @@
       ]
    },
    {
+      "codename": "sweet",
+      "brand": "Redmi",
+      "name": "Redmi Note 10 Pro",
+      "specs": {
+         "battery": 5020,
+         "camera": "64\\108Mpx 8Mpx 5Mpx 2Mpx + 16Mpx",
+         "cpu": "Snapdragon 732G",
+         "display": "AMOLED 6.67\" 1080p",
+         "ram": "6/8GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": "#",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "tulip",
       "brand": "Xiaomi",
       "name": "Redmi Note 6 Pro",

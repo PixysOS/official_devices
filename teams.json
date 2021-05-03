@@ -17,6 +17,22 @@
       ]
    },
    {
+      "full_name": "Ali Hasan",
+      "country": "PK",
+      "github_username": "AliHasan7671",
+      "telegram_username": "AliHasan7671",
+      "xda_url": "https://forum.xda-developers.com/m/alihasan7671.9683284/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "sweet"
+         }
+      ]
+   },
+   {
       "full_name": "Akshay Kakatkar",
       "country": "IN",
       "github_username": "KakatkarAkshay",
