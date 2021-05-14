@@ -1,18 +1,17 @@
 [
    {
-      "full_name": "Abhinand A K",
-      "country": "IN",
-      "github_username": "AbhinandAK350",
-      "telegram_username": "skybird350",
-      "xda_url": "https://forum.xda-developers.com/member.php?u=10234877",
+      "full_name": "Matheus Vinicius,
+      "country": "BR,
+      "github_username": "mathpfvr",
+      "telegram_username": "mathpfvr",
+      "xda_url": "https://forum.xda-developers.com/m/mathpfvr.6086822/",
       "core_team": false,
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
-            "codename": "onclite"
+            "codename": "A001D"
          }
       ]
    },
