@@ -434,6 +434,22 @@
       ]
    },
    {
+      "full_name": "Justine Ryan De Guia",
+      "country": "PH",
+      "github_username": "Kitsunejasutin",
+      "telegram_username": "tokatsu",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9239199",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "ginkgo"
+         }
+      ]
+   },
+   {
       "full_name": "Zafer Yusuf Vardar",
       "country": "TR",
       "github_username": "noonlord",
