@@ -17,22 +17,6 @@
       ]
    },
    {
-      "full_name": "Ali Hasan",
-      "country": "PK",
-      "github_username": "AliHasan7671",
-      "telegram_username": "AliHasan7671",
-      "xda_url": "https://forum.xda-developers.com/m/alihasan7671.9683284/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "eleven"
-            ],
-            "codename": "sweet"
-         }
-      ]
-   },
-   {
       "full_name": "Akshay Kakatkar",
       "country": "IN",
       "github_username": "KakatkarAkshay",
@@ -76,6 +60,22 @@
       "xda_url": "https://forum.xda-developers.com/member.php?u=7598239",
       "core_team": true,
       "devices": []
+   },
+   {
+      "full_name": "Ali Hasan",
+      "country": "PK",
+      "github_username": "AliHasan7671",
+      "telegram_username": "AliHasan7671",
+      "xda_url": "https://forum.xda-developers.com/m/alihasan7671.9683284/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "sweet"
+         }
+      ]
    },
    {
       "full_name": "Alisson Grizotti Bagual",
