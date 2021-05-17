@@ -379,8 +379,7 @@
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v4-0-2-t4193947",
             "supported_edition": [
-               "vanilla",
-               "gapps"
+               "vanilla"
             ]
          },
          {
