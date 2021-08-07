@@ -635,5 +635,27 @@
             ]
          }
       ]
+   },
+   {
+      "codename": "vayu",
+      "brand": "Xiaomi",
+      "name": "Poco X3 Pro",
+      "specs": {
+         "battery": 5160,
+         "camera": "48Mpx 8Mpx 2Mpx 2Mpx + 20Mpx",
+         "cpu": "Snapdragon 860",
+         "display": "IPS 6.67\" 1080p",
+         "ram": "6/8GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "eleven",
+            "xda_thread": "",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
    }
 ]

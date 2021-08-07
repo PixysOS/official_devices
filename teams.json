@@ -92,6 +92,12 @@
                "eleven"
             ],
             "codename": "lavender"
+         },
+         {
+            "bases": [
+               "eleven"
+            ],
+            "codename": "vayu"
          }
       ]
    },
