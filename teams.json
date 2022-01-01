@@ -141,7 +141,8 @@
          },
          {
             "bases": [
-               "eleven"
+               "eleven",
+               "twelve"
             ],
             "codename": "avicii"
          }
