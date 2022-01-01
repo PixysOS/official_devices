@@ -375,7 +375,8 @@
          },
          {
             "bases": [
-               "eleven"
+               "eleven",
+               "twelve"
             ],
             "codename": "X00TD"
          },
