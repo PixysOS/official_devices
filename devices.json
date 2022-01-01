@@ -4,14 +4,14 @@
       "brand": "Asus",
       "codename": "X00TD",
       "xda_thread": "",
-      "maintainers_name": "Subins Mani",
-      "maintainers_github": "subinsmani"
+      "maintainers_name": "",
+      "maintainers_github": ""
    },
    {
       "name": "Nord",
       "brand": "OnePlus",
       "codename": "avicii",
-      "xda_thread": "",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-v5-0-for-oneplus-nord-avicii-android-12-beta.4354451/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
    }
