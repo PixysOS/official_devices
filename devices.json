@@ -12,6 +12,13 @@
       },
       "supported_bases": [
          {
+            "name": "twelve",
+            "xda_thread": "",
+            "supported_edition": [
+               "gapps"
+            ]
+         },
+         {
             "name": "eleven",
             "xda_thread": "",
             "supported_edition": [
@@ -41,6 +48,13 @@
          "ram": "6/8/12GB LPDDR4X"
       },
       "supported_bases": [
+         {
+            "name": "twelve",
+            "xda_thread": "",
+            "supported_edition": [
+               "gapps"
+            ]
+         },
          {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-android-10-avicii-pixysos-aosp-2020-09-15-test-build-stable.4151127/",
