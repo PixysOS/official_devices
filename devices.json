@@ -14,5 +14,13 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-v5-0-for-oneplus-nord-avicii-android-12-beta.4354451/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
+   },
+   {
+      "name": "Redmi Note 5 Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "xda_thread": "",
+      "maintainers_name": "",
+      "maintainers_github": ""
    }
 ]
