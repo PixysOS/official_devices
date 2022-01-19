@@ -328,7 +328,7 @@
    {
       "full_name": "Sipun Kumar Mahanta",
       "country": "IN",
-      "github_username": "Sweeto143",
+      "github_username": "Darkstar085",
       "telegram_username": "Darkstar085",
       "xda_url": "https://forum.xda-developers.com/member.php?u=6698785",
       "core_team": true,
@@ -336,7 +336,8 @@
          {
             "bases": [
                "ten",
-               "eleven"
+               "eleven",
+               "twelve"
             ],
             "codename": "whyred"
          }
