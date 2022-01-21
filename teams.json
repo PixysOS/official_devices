@@ -10,7 +10,8 @@
          {
             "bases": [
                "ten",
-               "eleven"
+               "eleven",
+               "twelve"
             ],
             "codename": "onclite"
          }
