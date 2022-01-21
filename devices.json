@@ -277,6 +277,13 @@
       },
       "supported_bases": [
          {
+            "name": "twelve",
+            "xda_thread": "",
+            "supported_edition": [
+               "gapps"
+            ]
+         },
+         {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v4-0-2-24-11-2020-t4194237",
             "supported_edition": [
