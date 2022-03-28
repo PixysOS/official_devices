@@ -548,6 +548,7 @@
             "name": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-twelve-pixys-os-v5-0-for-whyred.4386893",
             "supported_edition": [
+               "vanilla",
                "gapps"
             ]
          },
