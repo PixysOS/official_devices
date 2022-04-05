@@ -282,6 +282,7 @@
             "name": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-pixysos-v5-0-2-android-12-14-02-2022.4402513",
             "supported_edition": [
+               "vanilla",
                "gapps"
             ]
          },
