@@ -18,6 +18,22 @@
       ]
    },
    {
+      "full_name": "Abhiram",
+      "country": "IN",
+      "github_username": "AzureHelper",
+      "telegram_username": "AzureHelper",
+      "xda_url": "https://forum.xda-developers.com/m/alchemist_xd.12000541/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "twelve"
+            ],
+            "codename": "raphael"
+         }
+      ]
+   },
+   {
       "full_name": "Akshay Kakatkar",
       "country": "IN",
       "github_username": "KakatkarAkshay",
