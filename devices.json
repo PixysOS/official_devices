@@ -253,11 +253,11 @@
          "camera": "13Mpx + 5Mpx",
          "cpu": "Snapdragon 625",
          "display": "IPS 5.5\" 1080p",
-         "ram": "2/3/4GB LPDDR4X"
+         "ram": "2/3/4GB LPDDR3"
       },
       "supported_bases": [
          {
-            "name": "ten",
+            "name": "twelve",
             "xda_thread": "",
             "supported_edition": [
                "vanilla",
