@@ -483,5 +483,21 @@
             "codename": "davinci"
          }
       ]
+   },
+   {
+      "full_name": "Nalinish Ranjan",
+      "country": "IN",
+      "github_username": "NRanjan-17",
+      "telegram_username": "HyperPower17",
+      "xda_url": "https://forum.xda-developers.com/m/nalinish-05.11157831",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "twelve"
+            ],
+            "codename": "mido"
+         }
+      ]
    }
 ]
