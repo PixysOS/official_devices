@@ -226,6 +226,22 @@
       ]
    },
    {
+      "full_name": "Nalinish Ranjan",
+      "country": "IN",
+      "github_username": "NRanjan-17",
+      "telegram_username": "HyperPower17",
+      "xda_url": "https://forum.xda-developers.com/m/nalinish-05.11157831",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "twelve"
+            ],
+            "codename": "mido"
+         }
+      ]
+   },
+   {
       "full_name": "Nishant Singh",
       "country": "IN",
       "github_username": "tesla59",
@@ -481,22 +497,6 @@
                "eleven"
             ],
             "codename": "davinci"
-         }
-      ]
-   },
-   {
-      "full_name": "Nalinish Ranjan",
-      "country": "IN",
-      "github_username": "NRanjan-17",
-      "telegram_username": "HyperPower17",
-      "xda_url": "https://forum.xda-developers.com/m/nalinish-05.11157831",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "twelve"
-            ],
-            "codename": "mido"
          }
       ]
    }
