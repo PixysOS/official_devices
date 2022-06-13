@@ -697,5 +697,27 @@
             ]
          }
       ]
+   },
+   {
+      "codename": "lavender",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 7",
+      "specs": {
+         "battery": 4000,
+         "camera": "48Mpx 5Mpx + 13Mpx",
+         "cpu": "Qualcomm SDM660 Snapdragon 660",
+         "display": "IPS 6.3\" 1080p",
+         "ram": "3/4GB"
+      },
+      "supported_bases": [
+         {
+            "name": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/f/8504/post-thread",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         }
+      ]
    }
 ]
