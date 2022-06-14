@@ -499,5 +499,21 @@
             "codename": "davinci"
          }
       ]
-   }
+   },
+   {
+      "full_name": "OmarAlCoptan",
+      "country": "EG",
+      "github_username": "OmarAlCoptan",
+      "telegram_username": "AlCoptan99",
+      "xda_url": "https://forum.xda-developers.com/m/coptan.12067541/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "twelve"
+            ],
+            "codename": "lavender"
+         }
+      ]
+    }
 ]
