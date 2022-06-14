@@ -205,16 +205,8 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-lavender-pixysos-v4-0-5.4110949/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949",
+            "name": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/f/8504/post-thread",
             "supported_edition": [
                "vanilla",
                "gapps"
