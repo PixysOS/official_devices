@@ -193,6 +193,22 @@
       "devices": []
    },
    {
+      "full_name": "Khusika Dhamar Gusti",
+      "country": "ID",
+      "github_username": "khusika",
+      "telegram_username": "khusika",
+      "xda_url": "https://forum.xda-developers.com/m/khusika.5123347",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "twelve"
+            ],
+            "codename": "vayu"
+         }
+      ]
+   },
+   {
       "full_name": "Lokesh Kasamneni",
       "country": "IN",
       "github_username": "Lokesh773",
