@@ -113,6 +113,22 @@
       ]
    },
    {
+      "full_name": "Anand S",
+      "country": "IN",
+      "github_username": "AnandSuresh02",
+      "telegram_username": "AnandSuresh02",
+      "xda_url": "none",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "twelve"
+            ],
+            "codename": "X00TD"
+         }
+      ]
+   },
+   {
       "full_name": "Astile Kuriakose",
       "country": "IN",
       "github_username": "atlanprime",
