@@ -455,6 +455,27 @@
       ]
    },
    {
+      "codename": "Spacewar",
+      "brand": "Nothing",
+      "name": "Phone (1)",
+      "specs": {
+         "battery": 4500,
+         "camera": "50Mpx 50Mpx + 16Mpx",
+         "cpu": "Snapdragon 778G+ 5G",
+         "display": "OLED 6.55\" 1080p",
+         "ram": "8/12GB LPDDR5X"
+      },
+      "supported_bases": [
+         {
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/pixysos-v6-0-beta-1-for-nothing-phone-1-android-13.4511025/",
+            "supported_edition": [
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "surya",
       "brand": "Xiaomi",
       "name": "Poco X3",
