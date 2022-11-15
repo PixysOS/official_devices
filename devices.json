@@ -265,8 +265,8 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
-            "xda_thread": "",
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-12-1-mido-pixysos-v5-1-2-aosp-2022-06-04.4453669/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -275,6 +275,14 @@
          {
             "name": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-12-1-mido-pixysos-v5-1-2-aosp-2022-06-04.4453669/",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         },
+         {
+            "name": "ten",
+            "xda_thread": "",
             "supported_edition": [
                "vanilla",
                "gapps"
