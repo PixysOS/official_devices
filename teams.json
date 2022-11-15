@@ -122,7 +122,8 @@
       "devices": [
          {
             "bases": [
-               "twelve"
+               "twelve",
+               "thirteen"
             ],
             "codename": "X00TD"
          }
