@@ -32,7 +32,7 @@
          "ram": "3/4GB LPDDR4X"
       },
       "supported_bases": [
-      	 {
+         {
             "name": "thirteen",
             "xda_thread": "",
             "supported_edition": [
