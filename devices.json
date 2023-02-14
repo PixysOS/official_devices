@@ -1,1 +1,18 @@
-[]
+[
+   {
+      "name": "Phone (1)",
+      "brand": "Nothing",
+      "codename": "Spacewar",
+      "xda_thread": "https://forum.xda-developers.com/t/pixysos-v6-0-beta-1-for-nothing-phone-1-android-13.4511025/",
+      "maintainers_name": "Aswin A S Kurup",
+      "maintainers_github": "aswin7469"
+   },
+   {
+      "name": "Redmi Note 4",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-12-1-mido-pixysos-v5-1-2-aosp-2022-06-04.4453669/",
+      "maintainers_name": "Nalinish Ranjan",
+      "maintainers_github": "NRanjan-17"
+   }
+]
