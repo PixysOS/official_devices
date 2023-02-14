@@ -1,5 +1,26 @@
 [
    {
+      "codename": "Spacewar",
+      "brand": "Nothing",
+      "name": "Phone (1)",
+      "specs": {
+         "battery": 4500,
+         "camera": "50Mpx 50Mpx + 16Mpx",
+         "cpu": "Snapdragon 778G+ 5G",
+         "display": "OLED 6.55\" 1080p",
+         "ram": "8/12GB LPDDR5X"
+      },
+      "supported_bases": [
+         {
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/pixysos-v6-0-beta-1-for-nothing-phone-1-android-13.4511025/",
+            "supported_edition": [
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "X00TD",
       "brand": "Asus",
       "name": "Zenfone Max Pro M1",
@@ -457,27 +478,6 @@
             "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
             "supported_edition": [
                "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "Spacewar",
-      "brand": "Nothing",
-      "name": "Phone (1)",
-      "specs": {
-         "battery": 4500,
-         "camera": "50Mpx 50Mpx + 16Mpx",
-         "cpu": "Snapdragon 778G+ 5G",
-         "display": "OLED 6.55\" 1080p",
-         "ram": "8/12GB LPDDR5X"
-      },
-      "supported_bases": [
-         {
-            "name": "thirteen",
-            "xda_thread": "https://forum.xda-developers.com/t/pixysos-v6-0-beta-1-for-nothing-phone-1-android-13.4511025/",
-            "supported_edition": [
                "gapps"
             ]
          }
