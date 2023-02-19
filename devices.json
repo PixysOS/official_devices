@@ -3,6 +3,7 @@
       "codename": "Spacewar",
       "brand": "Nothing",
       "name": "Phone (1)",
+      "fastboot": true,
       "specs": {
          "battery": 4500,
          "camera": "50Mpx 50Mpx + 16Mpx",
