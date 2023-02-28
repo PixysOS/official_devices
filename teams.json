@@ -278,6 +278,12 @@
                "thirteen"
             ],
             "codename": "mido"
+         },
+         {
+            "bases": [
+               "thirteen"
+            ],
+            "codename": "violet"
          }
       ]
    },
