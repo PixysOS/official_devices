@@ -7,6 +7,8 @@
 3. The device trees should be made available to public repositories of PixysOS devices organization(s).
 4. The device trees should have all the commits with proper authorship and should be ready for random inspection.
 5. The device should be updated bi-weekly or monthly depending on the features update or monthly security releases.
+6. You must make use of all the opt-in features and device additions which can be found [here](opt-in_features.md).
+7. You should avoid making source changes through any scripts from device sources. and all the tracked repos must be from PixysOS ( contact core team members for exceptions)
 
 #### Adding the device details to devices.json ####
 The devices.json should be updated with all the needed informations as stated below. To get started open devices.json and fill up these keys accordingly.
@@ -25,7 +27,7 @@ supported_bases[].name|Name of base the device supports|string|eleven|yes
 supported_bases[].xda_thread|XDA thread URL of base the device supports|string|https://forum.xda-developers.com/showthread.php?t=4109811|no
 status|The status to reflect of website|string|beta|no
 
-After adding the details you may need to verify if the JSON is syntactically correct or not. To do so copy the entire devices.json with your changes and paste it [here](https://jsonformatter.curiousconcept.com/), It will check and tell you if it is correct or it will suggesst you the changes to make it correct.
+After adding the details you may need to verify if the JSON is syntactically correct or not. To do so copy the entire devices.json with your changes and paste it [here](https://jsonformatter.curiousconcept.com/), It will check and tell you if it is correct or suggest changes to make it correct.
 
 ### How to push? ###
-After adding all the device changes, Check if you want to make any changes in teams.json if yes then head into this [section](adding_a_new_team_member.md) or you can proceed to [How to push? guide](how_to_push.md).
+After adding all the device changes, Check if you want to make any changes in teams.json if yes, refer to this [section](adding_a_new_team_member.md) Alternatively, proceed to the[How to push? guide](how_to_push.md).
