@@ -18,6 +18,7 @@ The devices.json should be updated with all the needed informations as stated be
 codename|The codename of the device|string|X00TD|yes
 name|The full name of the device|string|Zenfone Max Pro M1|yes
 brand|The brand of the device|string|Asus|yes
+fastboot| Whether your device supports fastboot builds|string|true|no
 specs.battery|Battery information of the device|integer|5000|yes
 specs.camera|Camera information of the device|string|13Mpx 5Mpx + 5Mpx|yes
 specs.cpu|CPU information of the device|string|Snapdragon 636|yes
@@ -25,6 +26,7 @@ specs.display|Display information of the device|string|IPS 5.99\" 1080p|yes
 specs.ram|RAM of the device|string|3/4GB LPDDR4X|yes
 supported_bases[].name|Name of base the device supports|string|eleven|yes
 supported_bases[].xda_thread|XDA thread URL of base the device supports|string|https://forum.xda-developers.com/showthread.php?t=4109811|no
+supported_bases[].supported_edition|Supported build types (thirteen only supports gapps)|string|gapps|yes
 status|The status to reflect of website|string|beta|no
 
 After adding the details you may need to verify if the JSON is syntactically correct or not. To do so copy the entire devices.json with your changes and paste it [here](https://jsonformatter.curiousconcept.com/), It will check and tell you if it is correct or suggest changes to make it correct.
