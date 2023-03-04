@@ -30,5 +30,13 @@
       "xda_thread": "",
       "maintainers_name": "Nalinish Ranjan",
       "maintainers_github": "NRanjan-17"
+   },
+   {
+      "name": "Redmi Note 5 Pro",
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "xda_thread": "",
+      "maintainers_name": "Sipun Kumar Mahanta",
+      "maintainers_github": "Darkstar085"
    }
 ]
