@@ -569,5 +569,22 @@
             "codename": "davinci"
          }
       ]
+   },
+   {
+      "full_name":"JYR_RC",
+      "country":"ES",
+      "github_username":"JYR_RC",
+      "telegram_username":"JYR_RC",
+      "xda_url":"https://forum.xda-developers.com/m/jyr_rc.12465769/",
+      "core_team":false,
+      "devices":[
+         {
+            "bases":[
+               "thirteen"
+            ],
+            "codename":"sweet"
+         }
+      ]
    }
-]
+
+] 
