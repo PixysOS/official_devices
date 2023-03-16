@@ -793,8 +793,8 @@
             "name": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/m/jyr_rc.12465769/",
             "supported_edition": [
-               "vanilla",
                "gapps"
+               
             ]
          }
       ]
