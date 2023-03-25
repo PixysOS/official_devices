@@ -541,6 +541,27 @@
       ]
    },
    {
+      "codename": "sweet",
+      "brand": "xiaomi",
+      "name": "redmi note 10 pro",
+      "specs": {
+         "battery": 5020,
+         "camera": "13Mpx + 8Mpx + 5Mpx + 2Mpx",
+         "cpu": "Snapdragon 732G",
+         "display": "sAMOLED 6,67\" 1080p",
+         "ram": "8GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/m/jyr_rc.12465769/",
+            "supported_edition": [
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "tulip",
       "brand": "Xiaomi",
       "name": "Redmi Note 6 Pro",
@@ -780,28 +801,6 @@
             "supported_edition": [
                "vanilla",
                "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "sweet",
-      "brand": "xiaomi",
-      "name": "redmi note 10 pro",
-      "specs": {
-         "battery": 5020,
-         "camera": "13Mpx + 8Mpx + 5Mpx + 2Mpx",
-         "cpu": "Snapdragon 732G",
-         "display": "sAMOLED 6,67\" 1080p",
-         "ram": "8GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "thirteen",
-            "xda_thread": "https://forum.xda-developers.com/m/jyr_rc.12465769/",
-            "supported_edition": [
-               "gapps"
-               
             ]
          }
       ]
