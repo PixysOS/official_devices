@@ -78,17 +78,17 @@
       "core_team": true,
       "devices": []
    },
-   {
-      "full_name": "Ali Hasan",
-      "country": "PK",
-      "github_username": "AliHasan7671",
-      "telegram_username": "AliHasan7671",
-      "xda_url": "https://forum.xda-developers.com/m/alihasan7671.9683284/",
+ {
+      "full_name": "Aarav Pandey",
+      "country": "IN",
+      "github_username": "omnitrix21",
+      "telegram_username": "im_aarav67",
+      "xda_url": "https://forum.xda-developers.com/m/aarav-pandey.12294065/",
       "core_team": false,
       "devices": [
          {
             "bases": [
-               "eleven"
+               "thirteen"
             ],
             "codename": "sweet"
          }
