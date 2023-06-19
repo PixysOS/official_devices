@@ -1,5 +1,21 @@
 [
    {
+      "full_name": "Aarav Pandey",
+      "country": "IN",
+      "github_username": "omnitrix21",
+      "telegram_username": "im_aarav67",
+      "xda_url": "https://forum.xda-developers.com/m/aarav-pandey.12294065/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "thirteen"
+            ],
+            "codename": "sweet"
+         }
+      ]
+   },
+   {
       "full_name": "Abhinand A K",
       "country": "IN",
       "github_username": "AbhinandAK350",
@@ -109,22 +125,6 @@
                "eleven"
             ],
             "codename": "lavender"
-         }
-      ]
-   },
-   {
-      "full_name": "Aarav Pandey",
-      "country": "IN",
-      "github_username": "omnitrix21",
-      "telegram_username": "im_aarav67",
-      "xda_url": "https://forum.xda-developers.com/m/aarav-pandey.12294065/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "thirteen"
-            ],
-            "codename": "sweet"
          }
       ]
    },
