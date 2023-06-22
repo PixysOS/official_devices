@@ -146,10 +146,9 @@
       },
       "supported_bases": [
          {
-            "name": "ten",
+            "name": "thirteen",
             "xda_thread": "",
             "supported_edition": [
-               "vanilla",
                "gapps"
             ]
          }
