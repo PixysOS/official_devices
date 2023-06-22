@@ -16,22 +16,6 @@
       ]
    },
    {
-      "full_name": "Akshat Singh",
-      "country": "IN",
-      "github_username": "Legendleo90",
-      "telegram_username": "leopubglover",
-      "xda_url": "https://forum.xda-developers.com/m/legendleo99.12006477/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "thirteen"
-            ],
-            "codename": "beryllium"
-         }
-      ]
-   },
-   {
       "full_name": "Abhinand A K",
       "country": "IN",
       "github_username": "AbhinandAK350",
@@ -62,6 +46,22 @@
                "twelve"
             ],
             "codename": "raphael"
+         }
+      ]
+   },
+   {
+      "full_name": "Akshat Singh",
+      "country": "IN",
+      "github_username": "Legendleo90",
+      "telegram_username": "leopubglover",
+      "xda_url": "https://forum.xda-developers.com/m/legendleo99.12006477/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "thirteen"
+            ],
+            "codename": "beryllium"
          }
       ]
    },
