@@ -528,29 +528,8 @@
    },
    {
       "codename": "sweet",
-      "brand": "Redmi",
-      "name": "Redmi Note 10 Pro",
-      "specs": {
-         "battery": 5020,
-         "camera": "64\\108Mpx 8Mpx 5Mpx 2Mpx + 16Mpx",
-         "cpu": "Snapdragon 732G",
-         "display": "AMOLED 6.67\" 1080p",
-         "ram": "6/8GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/pixysos-android-11-rom-official.4279017",
-            "supported_edition": [
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "sweet",
       "brand": "xiaomi",
-      "name": "redmi note 10 pro",
+      "name": "Redmi note 10 pro",
       "specs": {
          "battery": 5020,
          "camera": "13Mpx + 8Mpx + 5Mpx + 2Mpx",
@@ -560,8 +539,15 @@
       },
       "supported_bases": [
          {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/pixysos-android-11-rom-official.4279017",
+            "supported_edition": [
+               "gapps"
+            ]
+         },
+         {
             "name": "thirteen",
-            "xda_thread": "https://forum.xda-developers.com/m/aarav-pandey.12294065/",
+            "xda_thread": "",
             "supported_edition": [
                "gapps"
             ]
