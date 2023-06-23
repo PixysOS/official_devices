@@ -221,6 +221,23 @@
       ]
    },
    {
+      "full_name": "COSMIC",
+      "country": "IN",
+      "github_username": "rayavanindra",
+      "telegram_username": "cosmic_00x",
+      "xda_url": "https://forum.xda-developers.com/m/rayavanindra.12225855/",
+      "donate_url": "https://www.paypal.me/avanindra127",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "thirteen"
+            ],
+            "codename": "miatoll"
+         }
+      ]
+   },
+   {
       "full_name": "Harshit Verma",
       "country": "IN",
       "github_username": "iitachiuchiha",

@@ -276,10 +276,10 @@
    {
       "codename": "miatoll",
       "brand": "Xiaomi",
-      "name": "Redmi Note 9S/Pro",
+      "name": "POCO M2 Pro/Redmi Note 9S/9 Pro/9 Pro Max/10 Lite",
       "specs": {
          "battery": 5020,
-         "camera": "48Mpx 8Mpx 5Mpx 2Mpx + 16Mpx",
+         "camera": "48/64Mpx 8Mpx 5Mpx 2Mpx + 16/32Mpx",
          "cpu": "Qualcomm Snapdragon 720G",
          "display": "IPS 6.67 \" 1080p",
          "ram": "4/6/8GB LPDDR4X"
@@ -290,6 +290,13 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixysos-unofficial-t4155405",
             "supported_edition": [
                "vanilla",
+               "gapps"
+            ]
+         },
+         {
+            "name": "thirteen",
+            "xda_thread": "",
+            "supported_edition": [
                "gapps"
             ]
          }
