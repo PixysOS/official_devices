@@ -1,5 +1,26 @@
 [
    {
+      "codename": "RMX2020",
+      "brand": "Realme",
+      "name": "Realme C3 / Narzo 10A",
+      "specs": {
+         "battery": 5000,
+         "camera": "12Mpx 2Mpx + 5Mpx,12Mpx 2Mpx 2Mpx + 5Mpx",
+         "cpu": "Mediatek Helio G70",
+         "display": "IPS 6.50\" 720p",
+         "ram": "3/4GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-stable-13-rmx2020-pixysos-v6-3-1-aosp-2023-22-06.4607721/",
+            "supported_edition": [
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "Spacewar",
       "brand": "Nothing",
       "name": "Phone (1)",

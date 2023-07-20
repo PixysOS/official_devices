@@ -281,6 +281,22 @@
       ]
    },
    {
+      "full_name": "Koushik Dey",
+      "country": "IN",
+      "github_username": "Koushikdey2003",
+      "telegram_username": "koushikdey3",
+      "xda_url": "https://forum.xda-developers.com/m/koushikdey.11163757/",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "thirteen"
+            ],
+            "codename": "RMX2020"
+         }
+      ]
+   },
+   {
       "full_name": "Lokesh Kasamneni",
       "country": "IN",
       "github_username": "Lokesh773",
