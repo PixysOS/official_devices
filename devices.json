@@ -1,5 +1,13 @@
 [
    {
+      "name": "Realme C3 / Narzo 10A",
+      "brand": "Realme",
+      "codename": "RMX2020",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-stable-13-rmx2020-pixysos-v6-3-1-aosp-2023-22-06.4607721/",
+      "maintainers_name": "Koushik Dey",
+      "maintainers_github": "Koushikdey2003"
+   },
+   {
       "name": "Phone (1)",
       "brand": "Nothing",
       "codename": "Spacewar",
