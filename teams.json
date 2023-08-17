@@ -216,6 +216,12 @@
             "bases": [
                "thirteen"
             ],
+            "codename": "coral"
+         },
+         {
+            "bases": [
+               "thirteen"
+            ],
             "codename": "Spacewar"
          }
       ]
