@@ -43,28 +43,6 @@
       ]
    },
    {
-      "codename": "coral",
-      "brand": "Google",
-      "name": "Pixel 4 XL",
-      "fastboot": true,
-      "specs": {
-         "battery": 3700,
-         "camera": "12.2Mpx 16Mpx + 8Mpx",
-         "cpu": "Snapdragon 855",
-         "display": "AMOLED 6.3\" 1440p",
-         "ram": "6GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "thirteen",
-            "xda_thread": "",
-            "supported_edition": [
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
       "codename": "X00TD",
       "brand": "Asus",
       "name": "Zenfone Max Pro M1",
@@ -196,6 +174,28 @@
                "gapps"
             ]
          },
+         {
+            "name": "thirteen",
+            "xda_thread": "",
+            "supported_edition": [
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
+      "codename": "coral",
+      "brand": "Google",
+      "name": "Pixel 4 XL",
+      "fastboot": true,
+      "specs": {
+         "battery": 3700,
+         "camera": "12.2Mpx 16Mpx + 8Mpx",
+         "cpu": "Snapdragon 855",
+         "display": "AMOLED 6.3\" 1440p",
+         "ram": "6GB LPDDR4X"
+      },
+      "supported_bases": [
          {
             "name": "thirteen",
             "xda_thread": "",
