@@ -206,6 +206,28 @@
       ]
    },
    {
+      "codename": "flame",
+      "brand": "Google",
+      "name": "Pixel 4",
+      "fastboot": true,
+      "specs": {
+         "battery": 2800,
+         "camera": "12.2Mpx 16Mpx + 8Mpx",
+         "cpu": "Snapdragon 855",
+         "display": "AMOLED 5.7\" 1080p",
+         "ram": "6GB LPDDR4X"
+      },
+      "supported_bases": [
+         {
+            "name": "thirteen",
+            "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-v6-3-3-for-pixel-4-xl-coral-android-13-qpr3.4618523/",
+            "supported_edition": [
+               "gapps"
+            ]
+         }
+      ]
+   },
+   {
       "codename": "davinci",
       "brand": "Xiaomi",
       "name": "Mi 9T/Redmi K20",
