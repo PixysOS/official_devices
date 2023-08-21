@@ -48,6 +48,14 @@
       "maintainers_github": "aswin7469"
    },
    {
+      "name": "Pixel 4",
+      "brand": "Google",
+      "codename": "flame",
+      "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-v6-3-3-for-pixel-4-xl-coral-android-13-qpr3.4618523/",
+      "maintainers_name": "Aswin A S Kurup",
+      "maintainers_github": "aswin7469"
+   },
+   {
       "name": "POCO M2 Pro/Redmi Note 9S/9 Pro/9 Pro Max/10 Lite",
       "brand": "Xiaomi",
       "codename": "miatoll",
