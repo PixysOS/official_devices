@@ -3,7 +3,7 @@
       "name": "Zenfone Max Pro M1",
       "brand": "Asus",
       "codename": "X00TD",
-      "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4109811",
+      "xda_thread": "https://forum.xda-developers.com/t/pixys-os-official-3-1-0-ten-2020-06-04.4109811/",
       "maintainers_name": "Lokesh Kasamneni, Rohan Salkar",
       "maintainers_github": "Lokesh773, alexmercer09"
    },
@@ -11,7 +11,7 @@
       "name": "Redmi Note 8 Pro",
       "brand": "Xiaomi",
       "codename": "begonia",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-0-0-pixysos-v3-1-2-begonia-begoniain-official-updated-aug-29.4134539/",
       "maintainers_name": "Harshit Verma",
       "maintainers_github": "iitachiuchiha"
    },
@@ -43,7 +43,7 @@
       "name": "Redmi Note 7",
       "brand": "Xiaomi",
       "codename": "lavender",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-lavender-pixysos-v4-0-8.4110949/",
       "maintainers_name": "Alisson Grizotti Bagual",
       "maintainers_github": "AlissonGrizotti"
    },
@@ -51,7 +51,7 @@
       "name": "POCO M2 Pro/Redmi Note 9S/9 Pro/9 Pro Max/10 Lite",
       "brand": "Xiaomi",
       "codename": "miatoll",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixysos-unofficial-t4155405",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-10-pixysos-v3-1-3-official-miatoll-15-09-2020.4155405/",
       "maintainers_name": "Astile Kuriakose",
       "maintainers_github": "atlanprime"
    },
@@ -67,7 +67,7 @@
       "name": "Redmi 7",
       "brand": "Xiaomi",
       "codename": "onclite",
-      "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v3-1-3-android-10-23-09-2020.4036099/",
       "maintainers_name": "Abhinand A K",
       "maintainers_github": "AbhinandAK350"
    },
@@ -75,7 +75,7 @@
       "name": "Redmi K30/Poco X2",
       "brand": "Xiaomi",
       "codename": "phoenix",
-      "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-rom-11-0-official-pixysos-phoenix-poco-x2-redmi-k30.4110111/",
       "maintainers_name": "Akshay Kakatkar",
       "maintainers_github": "KakatkarAkshay"
    },
@@ -91,7 +91,7 @@
       "name": "Redmi 6 Pro",
       "brand": "Xiaomi",
       "codename": "sakura",
-      "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-10-official-pixysos-v3-0-1-sakura-23-12-2019.4023921/",
       "maintainers_name": "Tushar Mahajan",
       "maintainers_github": "mahajant99"
    },
@@ -99,7 +99,7 @@
       "name": "Moto G5 (S) Plus",
       "brand": "Motorola",
       "codename": "sanders",
-      "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-official-pixysos-v3-1-0-android-10.4041257/",
       "maintainers_name": "Lucas Ponez Da Mota",
       "maintainers_github": "lucasponez"
    },
@@ -107,7 +107,7 @@
       "name": "Redmi Note 7 Pro",
       "brand": "Xiaomi",
       "codename": "violet",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixysos-v3-0-1-official-wrappedkkey.4013913/",
       "maintainers_name": "Nishant Singh, Panchajanya Sarkar",
       "maintainers_github": "tesla59, Panchajanya1999"
    },
@@ -123,7 +123,7 @@
       "name": "Redmi Note 5 Pro",
       "brand": "Xiaomi",
       "codename": "whyred",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
+      "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
       "maintainers_name": "Sipun Kumar Mahanta",
       "maintainers_github": "Darkstar085"
    },
@@ -139,7 +139,7 @@
       "name": "Redmi Y2/S2",
       "brand": "Xiaomi",
       "codename": "ysl",
-      "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-10-official-4-9-pixysos-v3-1-2-ysl-06-08-2020.4143599/",
       "maintainers_name": "Tushar Mahajan",
       "maintainers_github": "mahajant99"
    },
@@ -147,7 +147,7 @@
       "name": "Zuk Z2 Plus",
       "brand": "Lenovo",
       "codename": "z2_plus",
-      "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-v3-1-3-10-official-16-09-20-z2_plus.4011587/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
    },
@@ -155,7 +155,7 @@
       "name": "Zuk Z2 Pro",
       "brand": "Lenovo",
       "codename": "z2_row",
-      "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-3-1-2-official-for-zuk-z2-pro-enforcing.4080859/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
    }
