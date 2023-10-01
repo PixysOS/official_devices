@@ -79,7 +79,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/showthread.php?t=4109811",
+            "xda_thread": "https://forum.xda-developers.com/t/pixys-os-official-3-1-0-ten-2020-06-04.4109811/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -138,7 +138,7 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-11-0-pixysos-v4-0-3-begonia-begoniain-official-stable.4184249/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -146,7 +146,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-0-0-pixysos-v3-1-2-begonia-begoniain-official-updated-aug-29.4134539/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -262,7 +262,7 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/rom-pixysos-t4196021",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-eleven-pixysos-official-2020-11-28.4196021/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -330,7 +330,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-lavender-pixysos-v4-0-8.4110949/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -352,7 +352,7 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixysos-unofficial-t4155405",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-pixysos-v3-1-3-official-miatoll-15-09-2020.4155405/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -426,7 +426,7 @@
          },
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v4-0-2-24-11-2020-t4194237",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v4-0-11-android-11-21-09-2021.4194237/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -434,7 +434,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v3-1-3-android-10-23-09-2020.4036099/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -457,7 +457,7 @@
          {
             "name": "eleven",
             "status": "deprecated",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-rom-11-0-official-pixysos-phoenix-poco-x2-redmi-k30.4110111/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -465,7 +465,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-rom-11-0-official-pixysos-phoenix-poco-x2-redmi-k30.4110111/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -531,7 +531,7 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v4-0-2-t4190559",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-4-9-pixysos-v4-0-2-sakura-15-11-2020.4190559/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -539,7 +539,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-official-pixysos-v3-0-1-sakura-23-12-2019.4023921/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -561,14 +561,14 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v4-0-2-t4193947",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-pixysos-v4-0-8-sanders-12-06-2021.4193947/",
             "supported_edition": [
                "vanilla"
             ]
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v3-02-27-01-2020-t4041257",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-pixysos-v3-1-0-android-10.4041257/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -590,7 +590,7 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-pixysos-v4-0-2-karna-surya-16-10-2020.4177269/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -640,7 +640,7 @@
       "supported_bases": [
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/pixysos-4-0-1-tulip-android-11-t4184933",
+            "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-4-0-3-android-11-20210112.4184933/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -698,7 +698,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixysos-v3-0-1-official-wrappedkkey.4013913/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -757,7 +757,7 @@
          },
          {
             "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
+            "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -765,7 +765,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
+            "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -809,7 +809,7 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/redmi-s2/development/rom-pixysos-v3-1-2-t4143599",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-10-official-4-9-pixysos-v3-1-2-ysl-06-08-2020.4143599/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -832,7 +832,7 @@
          {
             "name": "eleven",
             "status": "deprecated",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355",
+            "xda_thread": "https://forum.xda-developers.com/t/pixysos-v4-0-5-official-r-android-11-0-for-zuk-z2-plus.4167355/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -840,7 +840,7 @@
          },
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-v3-1-3-10-official-16-09-20-z2_plus.4011587/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -862,7 +862,7 @@
       "supported_bases": [
          {
             "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-3-1-2-official-for-zuk-z2-pro-enforcing.4080859/",
             "supported_edition": [
                "vanilla",
                "gapps"
