@@ -19,7 +19,7 @@
       "name": "Redmi Note 8 Pro",
       "brand": "Xiaomi",
       "codename": "begonia",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-v4-0-1-begonia-begoniain-t4184249",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-11-0-pixysos-v4-0-3-begonia-begoniain-official-stable.4184249/",
       "maintainers_name": "Harshit Verma",
       "maintainers_github": "iitachiuchiha"
    },
@@ -35,7 +35,7 @@
       "name": "Redmi Note 8",
       "brand": "Xiaomi",
       "codename": "ginkgo",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-8/development/rom-pixysos-t4196021",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-eleven-pixysos-official-2020-11-28.4196021/",
       "maintainers_name": "Shreejoy Dash",
       "maintainers_github": "shreejoy"
    },
@@ -51,7 +51,7 @@
       "name": "Redmi 7",
       "brand": "Xiaomi",
       "codename": "onclite",
-      "xda_thread": "https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v4-0-2-24-11-2020-t4194237",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v4-0-11-android-11-21-09-2021.4194237/",
       "maintainers_name": "Abhinand A K",
       "maintainers_github": "AbhinandAK350"
    },
@@ -59,7 +59,7 @@
       "name": "Redmi K30/Poco X2",
       "brand": "Xiaomi",
       "codename": "phoenix",
-      "xda_thread": "https://forum.xda-developers.com/poco-x2/development/rom-pixysos-t4110111",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-rom-11-0-official-pixysos-phoenix-poco-x2-redmi-k30.4110111/",
       "maintainers_name": "Akshay Kakatkar",
       "maintainers_github": "KakatkarAkshay"
    },
@@ -67,7 +67,7 @@
       "name": "Redmi 6 Pro",
       "brand": "Xiaomi",
       "codename": "sakura",
-      "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v4-0-2-t4190559",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-4-9-pixysos-v4-0-2-sakura-15-11-2020.4190559/",
       "maintainers_name": "Tushar Mahajan",
       "maintainers_github": "mahajant99"
    },
@@ -75,7 +75,7 @@
       "name": "Moto G5 (S) Plus",
       "brand": "Motorola",
       "codename": "sanders",
-      "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-pixysos-v4-0-2-t4193947",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-pixysos-v4-0-8-sanders-12-06-2021.4193947/",
       "maintainers_name": "Lucas Ponez Da Mota",
       "maintainers_github": "lucasponez"
    },
@@ -83,7 +83,7 @@
       "name": "Poco X3",
       "brand": "Xiaomi",
       "codename": "surya",
-      "xda_thread": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/rom-pixysos-v4-0-1-t4177269",
+      "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-pixysos-v4-0-2-karna-surya-16-10-2020.4177269/",
       "maintainers_name": "Tushar Mahajan",
       "maintainers_github": "mahajant99"
    },
@@ -99,7 +99,7 @@
       "name": "Redmi Note 6 Pro",
       "brand": "Xiaomi",
       "codename": "tulip",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/pixysos-4-0-1-tulip-android-11-t4184933",
+      "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-4-0-3-android-11-20210112.4184933/",
       "maintainers_name": "Astile Kuriakose",
       "maintainers_github": "atlanprime"
    },
@@ -115,7 +115,7 @@
       "name": "Redmi Note 5 Pro",
       "brand": "Xiaomi",
       "codename": "whyred",
-      "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
+      "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
       "maintainers_name": "Sipun Kumar Mahanta",
       "maintainers_github": "Darkstar085"
    },
@@ -123,7 +123,7 @@
       "name": "Zuk Z2 Plus",
       "brand": "Lenovo",
       "codename": "z2_plus",
-      "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pixysos-v4-0-0-android-11-t4167355",
+      "xda_thread": "https://forum.xda-developers.com/t/pixysos-v4-0-5-official-r-android-11-0-for-zuk-z2-plus.4167355/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
    }
