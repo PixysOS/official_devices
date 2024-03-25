@@ -595,6 +595,13 @@
                "vanilla",
                "gapps"
             ]
+         },
+         {
+            "name": "fourteen",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-pixysos-v4-0-2-karna-surya-16-10-2020.4177269/",
+            "supported_edition": [
+               "gapps"
+            ]
          }
       ]
    },
