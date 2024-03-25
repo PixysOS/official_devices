@@ -606,5 +606,21 @@
             "codename": "ginkgo"
          }
       ]
+   },
+   {
+      "full_name": "Rabby Sheikh",
+      "country": "BD",
+      "github_username": "shoya0x00",
+      "telegram_username": "lily985",
+      "xda_url": "",
+      "core_team": false,
+      "devices": [
+         {
+            "bases": [
+               "fourteen"
+            ],
+            "codename": "surya"
+         }
+      ]
    }
 ]

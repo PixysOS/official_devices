@@ -595,6 +595,13 @@
                "vanilla",
                "gapps"
             ]
+         },
+         {
+            "name": "fourteen",
+            "xda_thread": "",
+            "supported_edition": [
+               "gapps"
+            ]
          }
       ]
    },
