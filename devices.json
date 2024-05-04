@@ -209,6 +209,13 @@
             "supported_edition": [
                "gapps"
             ]
+         },
+         {
+            "name": "fourteen",
+            "xda_thread": "https://xdaforums.com/t/pixysos-v7-1-2-beta-4-for-pixel-4-xl-android-14-motion-sense.4639899/",
+            "supported_edition": [
+               "gapps"
+            ]
          }
       ]
    },
@@ -249,6 +256,13 @@
          {
             "name": "thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-v6-3-3-for-pixel-4-xl-coral-android-13-qpr3.4618523/",
+            "supported_edition": [
+               "gapps"
+            ]
+         },
+         {
+            "name": "fourteen",
+            "xda_thread": "https://xdaforums.com/t/pixysos-v7-1-2-beta-3-for-pixel-4-flame-android-14-qpr1-motion-sense.4651194/",
             "supported_edition": [
                "gapps"
             ]

@@ -214,13 +214,15 @@
          },
          {
             "bases": [
-               "thirteen"
+               "thirteen",
+               "fourteen"
             ],
             "codename": "coral"
          },
          {
             "bases": [
-               "thirteen"
+               "thirteen",
+               "fourteen"
             ],
             "codename": "flame"
          },
