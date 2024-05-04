@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         PASSWORD = credentials('OPENSSL_PASSWORD')
-        USER_PASSWORD = credentials('github')
+        USER_CREDENTIALS = credentials('github')
         GIT_COMMIT_HASH = sh(script: "git log -n 1 --pretty=format:'%H'", returnStdout: true)
     }
 
