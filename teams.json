@@ -25,7 +25,6 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven",
                "twelve"
             ],
@@ -76,19 +75,6 @@
       "devices": [
          {
             "bases": [
-               "ten"
-            ],
-            "codename": "jasmine_sprout"
-         },
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "wayne"
-         },
-         {
-            "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "phoenix"
@@ -137,7 +123,6 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "lavender"
@@ -171,12 +156,6 @@
       "devices": [
          {
             "bases": [
-               "ten"
-            ],
-            "codename": "miatoll"
-         },
-         {
-            "bases": [
                "eleven"
             ],
             "codename": "tulip"
@@ -194,16 +173,9 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "z2_plus"
-         },
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "z2_row"
          },
          {
             "bases": [
@@ -263,7 +235,6 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "begonia"
@@ -312,22 +283,6 @@
       ]
    },
    {
-      "full_name": "Lokesh Kasamneni",
-      "country": "IN",
-      "github_username": "Lokesh773",
-      "telegram_username": "l_o_k_e",
-      "xda_url": "https://forum.xda-developers.com/m/lokesh773.9362438/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "X00TD"
-         }
-      ]
-   },
-   {
       "full_name": "Lucas Ponez Da Mota",
       "country": "BR",
       "github_username": "lucasponez",
@@ -337,7 +292,6 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "sanders"
@@ -377,16 +331,9 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "violet"
-         },
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "beryllium"
          }
       ]
    },
@@ -418,7 +365,6 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "violet"
@@ -455,22 +401,6 @@
       "devices": []
    },
    {
-      "full_name": "Rohan Salkar",
-      "country": "IN",
-      "github_username": "alexmercer09",
-      "telegram_username": "alex_mercer09",
-      "xda_url": "https://forum.xda-developers.com/m/lokesh773.9362438/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "X00TD"
-         }
-      ]
-   },
-   {
       "full_name": "Shreejoy Dash",
       "country": "IN",
       "github_username": "shreejoy",
@@ -496,7 +426,6 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven",
                "twelve",
                "thirteen"
@@ -512,22 +441,6 @@
       ]
    },
    {
-      "full_name": "Sree Ram",
-      "country": "IN",
-      "github_username": "sreeramd22",
-      "telegram_username": "SreeRamD",
-      "xda_url": "https://forum.xda-developers.com/m/sree-ram.9048228/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "x2"
-         }
-      ]
-   },
-   {
       "full_name": "Subins Mani",
       "country": "IN",
       "github_username": "subinsmani",
@@ -536,12 +449,6 @@
       "donate_url": "http://paypal.me/subinsmani",
       "core_team": true,
       "devices": [
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "riva"
-         },
          {
             "bases": [
                "eleven"
@@ -575,38 +482,15 @@
       "devices": [
          {
             "bases": [
-               "ten",
                "eleven"
             ],
             "codename": "sakura"
          },
          {
             "bases": [
-               "ten"
-            ],
-            "codename": "ysl"
-         },
-         {
-            "bases": [
                "eleven"
             ],
             "codename": "surya"
-         }
-      ]
-   },
-   {
-      "full_name": "Wesley Jebaraj",
-      "country": "IN",
-      "github_username": "STRIX247",
-      "telegram_username": "STRIX247",
-      "xda_url": "https://forum.xda-developers.com/m/strix247.10770383/",
-      "core_team": false,
-      "devices": [
-         {
-            "bases": [
-               "ten"
-            ],
-            "codename": "ginkgo"
          }
       ]
    }

@@ -83,14 +83,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/pixys-os-official-3-1-0-ten-2020-06-04.4109811/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -150,14 +142,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-cfw-10-0-0-pixysos-v3-1-2-begonia-begoniain-official-updated-aug-29.4134539/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -173,14 +157,6 @@
          "ram": "6/8GB LPDDR4X"
       },
       "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
          {
             "name": "thirteen",
             "xda_thread": "",
@@ -288,36 +264,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "jasmine_sprout",
-      "brand": "Xiaomi",
-      "name": "Mi A2",
-      "specs": {
-         "battery": 3010,
-         "camera": "12Mpx 20Mpx + 20Mpx",
-         "cpu": "Snapdragon 660",
-         "display": "IPS 5.99\" 1080p",
-         "ram": "4/6GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -348,14 +294,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-lavender-pixysos-v4-0-8.4110949/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -371,14 +309,6 @@
          "ram": "4/6/8GB LPDDR4X"
       },
       "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-pixysos-v3-1-3-official-miatoll-15-09-2020.4155405/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
          {
             "name": "thirteen",
             "xda_thread": "",
@@ -414,14 +344,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -452,14 +374,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v3-1-3-android-10-23-09-2020.4036099/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -478,14 +392,6 @@
          {
             "name": "eleven",
             "status": "deprecated",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-rom-11-0-official-pixysos-phoenix-poco-x2-redmi-k30.4110111/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
-            "name": "ten",
             "xda_thread": "https://forum.xda-developers.com/t/rom-rom-11-0-official-pixysos-phoenix-poco-x2-redmi-k30.4110111/",
             "supported_edition": [
                "vanilla",
@@ -517,28 +423,6 @@
       ]
    },
    {
-      "codename": "riva",
-      "brand": "Xiaomi",
-      "name": "Redmi 5A",
-      "specs": {
-         "battery": 3000,
-         "camera": "13Mpx + 5Mpx",
-         "cpu": "Snapdragon 425",
-         "display": "IPS 5.0\" 720p",
-         "ram": "2GB"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
       "codename": "sakura",
       "brand": "Xiaomi",
       "name": "Redmi 6 Pro",
@@ -553,14 +437,6 @@
          {
             "name": "eleven",
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-4-9-pixysos-v4-0-2-sakura-15-11-2020.4190559/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-official-pixysos-v3-0-1-sakura-23-12-2019.4023921/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -585,14 +461,6 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-official-pixysos-v4-0-8-sanders-12-06-2021.4193947/",
             "supported_edition": [
                "vanilla"
-            ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-pixysos-v3-1-0-android-10.4041257/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
             ]
          }
       ]
@@ -716,36 +584,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-violet-pixysos-v3-0-1-official-wrappedkkey.4013913/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "wayne",
-      "brand": "Xiaomi",
-      "name": "Mi 6X",
-      "specs": {
-         "battery": 3010,
-         "camera": "12Mpx 20Mpx + 20Mpx",
-         "cpu": "Snapdragon 660",
-         "display": "IPS 5.99\" 1080p",
-         "ram": "4/6GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -783,58 +621,6 @@
                "vanilla",
                "gapps"
             ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "x2",
-      "brand": "Realme",
-      "name": "X2",
-      "specs": {
-         "battery": 4000,
-         "camera": "64Mpx 8Mpx 2Mpx 2Mpx + 32Mpx",
-         "cpu": "Snapdragon 730G",
-         "display": "AMOLED 6.4\" 1080p",
-         "ram": "4/6/8GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "ysl",
-      "brand": "Xiaomi",
-      "name": "Redmi Y2/S2",
-      "specs": {
-         "battery": 3080,
-         "camera": "12Mpx + 5Mpx",
-         "cpu": "Snapdragon 625",
-         "display": "IPS 5.99\" 720p",
-         "ram": "3/4GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-10-official-4-9-pixysos-v3-1-2-ysl-06-08-2020.4143599/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
          }
       ]
    },
@@ -854,36 +640,6 @@
             "name": "eleven",
             "status": "deprecated",
             "xda_thread": "https://forum.xda-developers.com/t/pixysos-v4-0-5-official-r-android-11-0-for-zuk-z2-plus.4167355/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-v3-1-3-10-official-16-09-20-z2_plus.4011587/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         }
-      ]
-   },
-   {
-      "codename": "z2_row",
-      "brand": "Lenovo",
-      "name": "Zuk Z2 Pro",
-      "specs": {
-         "battery": 3100,
-         "camera": "13Mpx + 8Mpx",
-         "cpu": "Snapdragon 820",
-         "display": "sAMOLED 5.2\" 1080p",
-         "ram": "6GB LPDDR4X"
-      },
-      "supported_bases": [
-         {
-            "name": "ten",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-3-1-2-official-for-zuk-z2-pro-enforcing.4080859/",
             "supported_edition": [
                "vanilla",
                "gapps"
