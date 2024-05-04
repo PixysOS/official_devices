@@ -39,6 +39,13 @@
             "supported_edition": [
                "gapps"
             ]
+         },
+         {
+            "name": "fourteen",
+            "xda_thread": "https://xdaforums.com/t/pixysos-v7-1-2-beta-5-1-for-nothing-phone-1-android-14.4637640/",
+            "supported_edition": [
+               "gapps"
+            ]
          }
       ]
    },

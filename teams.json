@@ -226,7 +226,8 @@
          },
          {
             "bases": [
-               "thirteen"
+               "thirteen",
+	       "fourteen"
             ],
             "codename": "Spacewar"
          }
