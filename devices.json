@@ -1,49 +1,17 @@
 [
    {
-      "name": "Realme C3 / Narzo 10A",
-      "brand": "Realme",
-      "codename": "RMX2020",
-      "xda_thread": "https://forum.xda-developers.com/t/rom-unofficial-stable-13-rmx2020-pixysos-v6-3-1-aosp-2023-22-06.4607721/",
-      "maintainers_name": "Koushik Dey",
-      "maintainers_github": "Koushikdey2003"
-   },
-   {
       "name": "Phone (1)",
       "brand": "Nothing",
       "codename": "Spacewar",
-      "xda_thread": "https://forum.xda-developers.com/t/pixysos-v6-0-beta-1-for-nothing-phone-1-android-13.4511025/",
+      "xda_thread": "https://xdaforums.com/t/pixysos-v7-1-2-beta-5-1-for-nothing-phone-1-android-14.4637640/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
-   },
-   {
-      "name": "Zenfone Max Pro M1",
-      "brand": "Asus",
-      "codename": "X00TD",
-      "xda_thread": "",
-      "maintainers_name": "Anand S",
-      "maintainers_github": "AnandSuresh02"
-   },
-   {
-      "name": "Nord",
-      "brand": "OnePlus",
-      "codename": "avicii",
-      "xda_thread": "",
-      "maintainers_name": "Sipun Kumar Mahanta",
-      "maintainers_github": "Darkstar085"
-   },
-   {
-      "name": "Poco F1",
-      "brand": "Xiaomi",
-      "codename": "beryllium",
-      "xda_thread": "",
-      "maintainers_name": "Akshat Singh",
-      "maintainers_github": "Legendleo90"
    },
    {
       "name": "Pixel 4 XL",
       "brand": "Google",
       "codename": "coral",
-      "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-v6-3-3-for-pixel-4-xl-coral-android-13-qpr3.4618523/",
+      "xda_thread": "https://xdaforums.com/t/pixysos-v7-1-2-beta-4-for-pixel-4-xl-android-14-motion-sense.4639899/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
    },
@@ -51,48 +19,8 @@
       "name": "Pixel 4",
       "brand": "Google",
       "codename": "flame",
-      "xda_thread": "https://forum.xda-developers.com/t/official-pixysos-v6-3-3-for-pixel-4-xl-coral-android-13-qpr3.4618523/",
+      "xda_thread": "https://xdaforums.com/t/pixysos-v7-1-2-beta-3-for-pixel-4-flame-android-14-qpr1-motion-sense.4651194/",
       "maintainers_name": "Aswin A S Kurup",
       "maintainers_github": "aswin7469"
-   },
-   {
-      "name": "POCO M2 Pro/Redmi Note 9S/9 Pro/9 Pro Max/10 Lite",
-      "brand": "Xiaomi",
-      "codename": "miatoll",
-      "xda_thread": "",
-      "maintainers_name": "COSMIC",
-      "maintainers_github": "rayavanindra"
-   },
-   {
-      "name": "Redmi Note 4",
-      "brand": "Xiaomi",
-      "codename": "mido",
-      "xda_thread": "https://forum.xda-developers.com/t/rom-official-stable-12-1-mido-pixysos-v5-1-2-aosp-2022-06-04.4453669/",
-      "maintainers_name": "Nalinish Ranjan",
-      "maintainers_github": "NRanjan-17"
-   },
-   {
-      "name": "Redmi Note 10 Pro",
-      "brand": "Xiaomi",
-      "codename": "sweet",
-      "xda_thread": "",
-      "maintainers_name": "Aarav Pandey",
-      "maintainers_github": "omnitrix21"
-   },
-   {
-      "name": "Redmi Note 7 Pro",
-      "brand": "Xiaomi",
-      "codename": "violet",
-      "xda_thread": "",
-      "maintainers_name": "Nalinish Ranjan",
-      "maintainers_github": "NRanjan-17"
-   },
-   {
-      "name": "Redmi Note 5 Pro",
-      "brand": "Xiaomi",
-      "codename": "whyred",
-      "xda_thread": "",
-      "maintainers_name": "Sipun Kumar Mahanta",
-      "maintainers_github": "Darkstar085"
    }
 ]
