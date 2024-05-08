@@ -62,14 +62,6 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
             "name": "thirteen",
             "xda_thread": "",
             "supported_edition": [
@@ -78,6 +70,14 @@
          },
          {
             "name": "twelve",
+            "xda_thread": "",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         },
+         {
+            "name": "eleven",
             "xda_thread": "",
             "supported_edition": [
                "vanilla",
@@ -99,14 +99,6 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-android-10-avicii-pixysos-aosp-2020-09-15-test-build-stable.4151127/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
             "name": "thirteen",
             "xda_thread": "",
             "supported_edition": [
@@ -116,6 +108,14 @@
          {
             "name": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-pixysos-v5-0-for-oneplus-nord-avicii-android-12-beta.4354451/",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         },
+         {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-android-10-avicii-pixysos-aosp-2020-09-15-test-build-stable.4151127/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -280,16 +280,16 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-lavender-pixysos-v4-0-5.4110949/",
+            "name": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/pixysos-lavender-official.4458555/",
             "supported_edition": [
                "vanilla",
                "gapps"
             ]
          },
          {
-            "name": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/t/pixysos-lavender-official.4458555/",
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-lavender-pixysos-v4-0-5.4110949/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -360,16 +360,16 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v4-0-11-android-11-21-09-2021.4194237/",
+            "name": "twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-pixysos-v5-0-2-android-12-14-02-2022.4402513",
             "supported_edition": [
                "vanilla",
                "gapps"
             ]
          },
          {
-            "name": "twelve",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-official-pixysos-v5-0-2-android-12-14-02-2022.4402513",
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-official-eol-pixysos-v4-0-11-android-11-21-09-2021.4194237/",
             "supported_edition": [
                "vanilla",
                "gapps"
@@ -500,15 +500,15 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/pixysos-android-11-rom-official.4279017",
+            "name": "thirteen",
+            "xda_thread": "",
             "supported_edition": [
                "gapps"
             ]
          },
          {
-            "name": "thirteen",
-            "xda_thread": "",
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/pixysos-android-11-rom-official.4279017",
             "supported_edition": [
                "gapps"
             ]
@@ -571,17 +571,17 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/r-pixysos-4-0-2-violet-stable.4175247",
+            "name": "thirteen",
+            "xda_thread": "",
             "supported_edition": [
-               "vanilla",
                "gapps"
             ]
          },
          {
-            "name": "thirteen",
-            "xda_thread": "",
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/r-pixysos-4-0-2-violet-stable.4175247",
             "supported_edition": [
+               "vanilla",
                "gapps"
             ]
          }
@@ -600,14 +600,6 @@
       },
       "supported_bases": [
          {
-            "name": "eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
-            "supported_edition": [
-               "vanilla",
-               "gapps"
-            ]
-         },
-         {
             "name": "thirteen",
             "xda_thread": "",
             "supported_edition": [
@@ -617,6 +609,14 @@
          {
             "name": "twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-twelve-pixys-os-v5-0-for-whyred.4386893",
+            "supported_edition": [
+               "vanilla",
+               "gapps"
+            ]
+         },
+         {
+            "name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/official-eleven-pixys-os-for-whyred-07-08-2021.4071239/",
             "supported_edition": [
                "vanilla",
                "gapps"
